@@ -1,0 +1,11 @@
+{
+  "name": "拼音小乐园",
+  "short_name": "拼音乐园",
+  "description": "面向5岁儿童的汉语拼音启蒙互动小程序",
+  "lang": "zh-CN",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4fbff",
+  "theme_color": "#ff735d"
+}
+
