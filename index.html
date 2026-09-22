@@ -1,0 +1,321 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+    <meta name="theme-color" content="#ff7a59" />
+    <meta
+      name="description"
+      content="面向5岁儿童的汉语拼音启蒙互动小程序：认拼音、学四声、看图闯关。"
+    />
+    <title>拼音小乐园</title>
+    <link rel="manifest" href="./manifest.webmanifest" />
+    <link rel="stylesheet" href="./styles.css?v=3" />
+  </head>
+  <body>
+    <div class="sky-orb orb-one" aria-hidden="true"></div>
+    <div class="sky-orb orb-two" aria-hidden="true"></div>
+
+    <div class="app-shell">
+      <header class="topbar">
+        <button class="brand" data-page-link="home" aria-label="回到首页">
+          <span class="brand-mascot" aria-hidden="true">🦊</span>
+          <span>
+            <strong>拼音小乐园</strong>
+            <small>每天 10 分钟，快乐开口读</small>
+          </span>
+        </button>
+        <div class="top-actions">
+          <div class="star-pill" aria-label="获得的星星">
+            <span aria-hidden="true">⭐</span>
+            <strong id="starCount">0</strong>
+          </div>
+          <button class="icon-button" id="soundToggle" aria-label="关闭声音" aria-pressed="true">
+            🔊
+          </button>
+          <button class="icon-button" id="parentButton" aria-label="家长设置">⚙️</button>
+        </div>
+      </header>
+
+      <main>
+        <section class="page active" id="page-home" aria-labelledby="homeTitle">
+          <div class="hero panel">
+            <div class="hero-copy">
+              <p class="eyebrow">今天也要大声读出来呀！</p>
+              <h1 id="homeTitle">你好，小小拼音探险家！</h1>
+              <p class="hero-text">跟狐狸朵朵一起认字母、练四声、赢星星。</p>
+              <button class="primary-button" data-page-link="learn">
+                <span>开始今天的冒险</span><span aria-hidden="true">→</span>
+              </button>
+            </div>
+            <div class="hero-scene" aria-hidden="true">
+              <div class="sun">☀️</div>
+              <div class="cloud cloud-a">ā</div>
+              <div class="cloud cloud-o">ō</div>
+              <div class="mascot">🦊</div>
+              <div class="grass">🌼　🌱　🌷</div>
+            </div>
+          </div>
+
+          <div class="daily-progress panel">
+            <div>
+              <p class="section-kicker">今日小目标</p>
+              <h2>点亮 6 颗星星</h2>
+            </div>
+            <div class="progress-wrap">
+              <div class="progress-track" aria-label="今日进度">
+                <div class="progress-fill" id="dailyProgress"></div>
+              </div>
+              <strong id="dailyProgressText">0 / 6</strong>
+            </div>
+          </div>
+
+          <div class="adventure-grid" aria-label="学习模块">
+            <button class="adventure-card coral" data-page-link="learn">
+              <span class="card-icon" aria-hidden="true">🎈</span>
+              <span class="card-copy">
+                <small>第一站</small>
+                <strong>拼音卡片</strong>
+                <span>认识声母和韵母</span>
+              </span>
+              <span class="round-arrow" aria-hidden="true">→</span>
+            </button>
+            <button class="adventure-card blue" data-page-link="tones">
+              <span class="card-icon" aria-hidden="true">🚂</span>
+              <span class="card-copy">
+                <small>第二站</small>
+                <strong>四声小火车</strong>
+                <span>读准四种声调</span>
+              </span>
+              <span class="round-arrow" aria-hidden="true">→</span>
+            </button>
+            <button class="adventure-card mint" data-page-link="write">
+              <span class="card-icon" aria-hidden="true">✍️</span>
+              <span class="card-copy">
+                <small>第三站</small>
+                <strong>书写笔顺</strong>
+                <span>看笔顺，动手描一描</span>
+              </span>
+              <span class="round-arrow" aria-hidden="true">→</span>
+            </button>
+            <button class="adventure-card yellow" data-page-link="quiz">
+              <span class="card-icon" aria-hidden="true">🏆</span>
+              <span class="card-copy">
+                <small>第四站</small>
+                <strong>看图来闯关</strong>
+                <span>选出正确的拼音</span>
+              </span>
+              <span class="round-arrow" aria-hidden="true">→</span>
+            </button>
+          </div>
+        </section>
+
+        <section class="page" id="page-learn" aria-labelledby="learnTitle" hidden>
+          <div class="page-heading">
+            <button class="back-button" data-page-link="home" aria-label="返回首页">←</button>
+            <div>
+              <p class="section-kicker">第一站</p>
+              <h1 id="learnTitle">拼音卡片</h1>
+              <p>点一点、听一听，再跟着大声读。</p>
+            </div>
+          </div>
+
+          <div class="category-tabs" id="categoryTabs" role="tablist" aria-label="拼音分类"></div>
+
+          <div class="lesson-layout">
+            <aside class="lesson-map panel" aria-label="本组拼音列表">
+              <div class="map-heading">
+                <span>学习地图</span>
+                <strong id="groupProgress">0 / 0</strong>
+              </div>
+              <div class="mini-card-grid" id="miniCardGrid"></div>
+            </aside>
+
+            <article class="sound-card panel" aria-live="polite">
+              <span class="sound-badge" id="soundBadge">声母</span>
+              <button class="speaker-bubble" id="cardSpeakButton" aria-label="播放读音">🔊</button>
+              <div class="pinyin-letter" id="pinyinLetter">b</div>
+              <div class="mouth-tip" id="mouthTip">双唇紧闭，再轻轻放开</div>
+              <div class="example-word">
+                <span class="example-emoji" id="exampleEmoji" aria-hidden="true">🥛</span>
+                <span>
+                  <small>跟我读</small>
+                  <strong id="exampleText">bō · 玻璃的玻</strong>
+                </span>
+              </div>
+              <div class="card-actions">
+                <button class="secondary-button" id="previousCard">← 上一个</button>
+                <button class="learned-button" id="learnedButton">我会读啦 ⭐</button>
+                <button class="secondary-button" id="nextCard">下一个 →</button>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <section class="page" id="page-tones" aria-labelledby="tonesTitle" hidden>
+          <div class="page-heading">
+            <button class="back-button" data-page-link="home" aria-label="返回首页">←</button>
+            <div>
+              <p class="section-kicker">第二站</p>
+              <h1 id="tonesTitle">四声小火车</h1>
+              <p>选择一个韵母，再让小火车开过四座声调山。</p>
+            </div>
+          </div>
+
+          <div class="vowel-picker panel">
+            <span>选择韵母</span>
+            <div id="vowelButtons" class="vowel-buttons" aria-label="选择韵母"></div>
+          </div>
+
+          <div class="tone-stage panel">
+            <div class="tone-landscape" aria-hidden="true">
+              <span class="track"></span>
+              <span class="tone-train" id="toneTrain">🚂</span>
+            </div>
+            <div class="tone-grid" id="toneGrid"></div>
+            <p class="tone-rhyme" id="toneRhyme">一声平，二声扬，三声拐弯，四声降。</p>
+          </div>
+        </section>
+
+        <section class="page" id="page-write" aria-labelledby="writeTitle" hidden>
+          <div class="page-heading">
+            <button class="back-button" data-page-link="home" aria-label="返回首页">←</button>
+            <div>
+              <p class="section-kicker">第三站</p>
+              <h1 id="writeTitle">书写笔顺</h1>
+              <p>先看动画，再用手指沿着虚线慢慢写。</p>
+            </div>
+          </div>
+
+          <div class="writing-picker panel">
+            <div>
+              <strong>选择要练的字母</strong>
+              <small>先练单韵母，再练声母</small>
+            </div>
+            <div class="writing-letter-buttons" id="writingLetterButtons" aria-label="选择书写字母"></div>
+          </div>
+
+          <div class="writing-workspace">
+            <article class="stroke-demo-card panel">
+              <div class="writing-card-heading">
+                <div>
+                  <span class="writing-tag">看一看</span>
+                  <h2><span id="writingLetterTitle">a</span> 怎么写？</h2>
+                </div>
+                <button class="listen-chip" id="writingSpeakButton">🔊 听读音</button>
+              </div>
+              <canvas id="strokeDemoCanvas" width="520" height="360" aria-label="字母笔顺动画"></canvas>
+              <ol class="stroke-steps" id="strokeSteps"></ol>
+              <button class="primary-button play-strokes" id="playStrokes">▶ 播放笔顺</button>
+            </article>
+
+            <article class="trace-card panel">
+              <div class="writing-card-heading">
+                <div>
+                  <span class="writing-tag blue-tag">写一写</span>
+                  <h2>轮到你啦！</h2>
+                </div>
+                <span class="pencil-chip" aria-hidden="true">✏️</span>
+              </div>
+              <p class="trace-tip">沿着浅色字母写，可以多写几遍。</p>
+              <div class="trace-canvas-wrap">
+                <canvas id="traceCanvas" width="520" height="420" aria-label="字母描写画板"></canvas>
+              </div>
+              <div class="trace-actions">
+                <button class="secondary-button" id="clearTrace">清除重写</button>
+                <button class="learned-button" id="finishWriting">我写好啦 ⭐</button>
+              </div>
+            </article>
+          </div>
+        </section>
+
+        <section class="page" id="page-quiz" aria-labelledby="quizTitle" hidden>
+          <div class="page-heading">
+            <button class="back-button" data-page-link="home" aria-label="返回首页">←</button>
+            <div>
+              <p class="section-kicker">第四站</p>
+              <h1 id="quizTitle">看图来闯关</h1>
+              <p>不用打字，点出图片对应的拼音。</p>
+            </div>
+          </div>
+
+          <div class="quiz-shell panel">
+            <div class="quiz-intro" id="quizIntro">
+              <div class="trophy" aria-hidden="true">🏆</div>
+              <h2>准备好了吗？</h2>
+              <p>一共有 8 关。答对会得到星星，答错也可以再试一次。</p>
+              <button class="primary-button" id="startQuiz">开始闯关</button>
+            </div>
+
+            <div class="quiz-game" id="quizGame" hidden>
+              <div class="quiz-status">
+                <strong id="quizStep">第 1 / 8 关</strong>
+                <div class="quiz-dots" id="quizDots" aria-label="闯关进度"></div>
+                <span id="quizScore">⭐ 0</span>
+              </div>
+              <div class="picture-card">
+                <span id="quizEmoji" class="quiz-emoji" aria-hidden="true">🐱</span>
+                <button id="quizWordSpeak" class="listen-chip">🔊 听一听</button>
+                <h2>它的拼音是哪一个？</h2>
+              </div>
+              <div class="answer-grid" id="answerGrid"></div>
+              <div class="quiz-feedback" id="quizFeedback" aria-live="assertive"></div>
+              <button class="primary-button next-question" id="nextQuestion" hidden>下一关 →</button>
+            </div>
+
+            <div class="quiz-result" id="quizResult" hidden>
+              <div class="result-stars" id="resultStars" aria-hidden="true">⭐⭐⭐</div>
+              <h2 id="resultTitle">太棒啦！</h2>
+              <p id="resultText"></p>
+              <div class="result-actions">
+                <button class="secondary-button" data-page-link="home">回到首页</button>
+                <button class="primary-button" id="restartQuiz">再玩一次</button>
+              </div>
+            </div>
+          </div>
+        </section>
+      </main>
+
+      <nav class="bottom-nav" aria-label="主导航">
+        <button class="nav-item active" data-page-link="home"><span>🏠</span>首页</button>
+        <button class="nav-item" data-page-link="learn"><span>🎈</span>认拼音</button>
+        <button class="nav-item" data-page-link="tones"><span>🚂</span>学四声</button>
+        <button class="nav-item" data-page-link="write"><span>✍️</span>写一写</button>
+        <button class="nav-item" data-page-link="quiz"><span>🏆</span>闯关</button>
+      </nav>
+    </div>
+
+    <dialog id="parentDialog" class="parent-dialog">
+      <form method="dialog">
+        <div class="dialog-title">
+          <div>
+            <small>仅供家长操作</small>
+            <h2>家长设置</h2>
+          </div>
+          <button class="dialog-close" value="cancel" aria-label="关闭">×</button>
+        </div>
+        <div class="setting-row">
+          <div>
+            <strong>每日星星目标</strong>
+            <p>建议每次学习 5～10 分钟。</p>
+          </div>
+          <select id="dailyGoal" aria-label="每日星星目标">
+            <option value="4">4 颗</option>
+            <option value="6">6 颗</option>
+            <option value="8">8 颗</option>
+            <option value="10">10 颗</option>
+          </select>
+        </div>
+        <div class="privacy-note">
+          <span aria-hidden="true">🛡️</span>
+          <p><strong>儿童隐私友好</strong><br />不登录、不联网收集数据，学习记录只保存在这台设备。</p>
+        </div>
+        <button type="button" class="danger-link" id="resetProgress">清空本机学习记录</button>
+      </form>
+    </dialog>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+    <script src="./app.js?v=3" defer></script>
+  </body>
+</html>
+
