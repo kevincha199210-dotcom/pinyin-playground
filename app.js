@@ -263,23 +263,21 @@ function playChime(kind = "good") {
   setTimeout(() => context.close(), 700);
 }
 
-function speak(text, options = {}) {
+let currentSpeechAudio = null;
+
+function playSpeech(key) {
   if (!state.soundOn) {
     showToast("声音已关闭，点右上角可以打开");
     return;
   }
-  if (!("speechSynthesis" in window)) {
-    showToast("当前浏览器暂不支持语音播放");
-    return;
+  if (currentSpeechAudio) {
+    currentSpeechAudio.pause();
+    currentSpeechAudio.currentTime = 0;
   }
-  window.speechSynthesis.cancel();
-  const utterance = new SpeechSynthesisUtterance(text);
-  utterance.lang = "zh-CN";
-  utterance.rate = options.rate || 0.72;
-  utterance.pitch = options.pitch || 1.08;
-  const chineseVoice = window.speechSynthesis.getVoices().find((voice) => /zh[-_]CN/i.test(voice.lang));
-  if (chineseVoice) utterance.voice = chineseVoice;
-  window.speechSynthesis.speak(utterance);
+  const audio = new Audio(`./audio/${key}.mp3`);
+  currentSpeechAudio = audio;
+  audio.addEventListener("error", () => showToast("音频加载失败，请检查网络后重试"), { once: true });
+  audio.play().catch(() => showToast("请再点一次喇叭播放声音"));
 }
 
 function addStar(count = 1) {
@@ -395,7 +393,7 @@ function playTone(index) {
   $$(".tone-card").forEach((card, cardIndex) => card.classList.toggle("active", cardIndex === index));
   $("#toneTrain").style.left = `${7 + index * 25}%`;
   $("#toneRhyme").textContent = `${TONE_NAMES[index]}，${TONE_HINTS[index]}。跟我读：${symbol}——`;
-  speak(`${symbol}。${TONE_NAMES[index]}`, { rate: 0.62 });
+  playSpeech(`tone-${state.vowel.replace("ü", "v")}-${index}`);
 }
 
 const STROKE_COLORS = ["#ff735d", "#5bbce9", "#8ed9bb", "#a987e8"];
@@ -671,7 +669,7 @@ function answerQuestion(button) {
     $("#nextQuestion").hidden = false;
     $("#quizScore").textContent = `⭐ ${state.quiz.score}`;
     playChime("good");
-    speak(`答对啦！${question.word}，${question.answer}`, { rate: 0.72 });
+    playSpeech(`correct-${QUIZ_WORDS.indexOf(question)}`);
   } else {
     button.classList.add("wrong");
     button.disabled = true;
@@ -759,18 +757,19 @@ function bindEvents() {
     $("#soundToggle").setAttribute("aria-pressed", String(state.soundOn));
     $("#soundToggle").setAttribute("aria-label", state.soundOn ? "关闭声音" : "打开声音");
     persist();
-    if (state.soundOn) speak("声音打开啦");
+    if (state.soundOn) playSpeech("sound-on");
+    else if (currentSpeechAudio) currentSpeechAudio.pause();
   });
 
   $("#cardSpeakButton").addEventListener("click", () => {
-    const [letter, example, , , word] = currentCard();
-    speak(`${letter}。${example.replace("·", "，")}。${word}`, { rate: 0.64 });
+    const [letter] = currentCard();
+    playSpeech(`card-${state.group}-${letter.replace("ü", "v")}`);
   });
   $("#previousCard").addEventListener("click", () => moveCard(-1));
   $("#nextCard").addEventListener("click", () => moveCard(1));
   $("#learnedButton").addEventListener("click", toggleLearned);
   $("#writingSpeakButton").addEventListener("click", () => {
-    speak(WRITING_LETTERS[state.writingLetter].speech, { rate: 0.68 });
+    playSpeech(`write-${state.writingLetter.replace("ü", "v")}`);
   });
   $("#playStrokes").addEventListener("click", playStrokeDemo);
   $("#clearTrace").addEventListener("click", clearTraceCanvas);
@@ -780,7 +779,7 @@ function bindEvents() {
   $("#nextQuestion").addEventListener("click", nextQuestion);
   $("#quizWordSpeak").addEventListener("click", () => {
     const question = state.quiz.questions[state.quiz.index];
-    if (question) speak(`${question.word}。${question.answer}`, { rate: 0.7 });
+    if (question) playSpeech(`quiz-${QUIZ_WORDS.indexOf(question)}`);
   });
   $("#parentButton").addEventListener("click", () => $("#parentDialog").showModal());
   $("#dailyGoal").addEventListener("change", (event) => {
