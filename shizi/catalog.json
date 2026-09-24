@@ -1,0 +1,5040 @@
+[
+  {
+    "id": "book1",
+    "name": "第一册",
+    "subtitle": "从身边的字开始",
+    "color": "coral",
+    "lessons": [
+      {
+        "number": 1,
+        "items": [
+          {
+            "id": "book1-001",
+            "char": "人",
+            "index": 1,
+            "lesson": 1,
+            "picture": "assets/book1/001-picture.webp",
+            "quizPicture": "assets/book1/001-quiz.webp",
+            "characterImage": "assets/book1/001-character.webp",
+            "audio": "audio/words/book1-001.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-002",
+            "char": "头",
+            "index": 2,
+            "lesson": 1,
+            "picture": "assets/book1/002-picture.webp",
+            "quizPicture": "assets/book1/002-quiz.webp",
+            "characterImage": "assets/book1/002-character.webp",
+            "audio": "audio/words/book1-002.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-003",
+            "char": "目",
+            "index": 3,
+            "lesson": 1,
+            "picture": "assets/book1/003-picture.webp",
+            "quizPicture": "assets/book1/003-quiz.webp",
+            "characterImage": "assets/book1/003-character.webp",
+            "audio": "audio/words/book1-003.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-004",
+            "char": "眉",
+            "index": 4,
+            "lesson": 1,
+            "picture": "assets/book1/004-picture.webp",
+            "quizPicture": "assets/book1/004-quiz.webp",
+            "characterImage": "assets/book1/004-character.webp",
+            "audio": "audio/words/book1-004.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-005",
+            "char": "鼻",
+            "index": 5,
+            "lesson": 1,
+            "picture": "assets/book1/005-picture.webp",
+            "quizPicture": "assets/book1/005-quiz.webp",
+            "characterImage": "assets/book1/005-character.webp",
+            "audio": "audio/words/book1-005.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-006",
+            "char": "耳",
+            "index": 6,
+            "lesson": 1,
+            "picture": "assets/book1/006-picture.webp",
+            "quizPicture": "assets/book1/006-quiz.webp",
+            "characterImage": "assets/book1/006-character.webp",
+            "audio": "audio/words/book1-006.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-007",
+            "char": "口",
+            "index": 7,
+            "lesson": 1,
+            "picture": "assets/book1/007-picture.webp",
+            "quizPicture": "assets/book1/007-quiz.webp",
+            "characterImage": "assets/book1/007-character.webp",
+            "audio": "audio/words/book1-007.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-008",
+            "char": "牙",
+            "index": 8,
+            "lesson": 1,
+            "picture": "assets/book1/008-picture.webp",
+            "quizPicture": "assets/book1/008-quiz.webp",
+            "characterImage": "assets/book1/008-character.webp",
+            "audio": "audio/words/book1-008.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "items": [
+          {
+            "id": "book1-009",
+            "char": "舌",
+            "index": 9,
+            "lesson": 2,
+            "picture": "assets/book1/009-picture.webp",
+            "quizPicture": "assets/book1/009-quiz.webp",
+            "characterImage": "assets/book1/009-character.webp",
+            "audio": "audio/words/book1-009.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-010",
+            "char": "心",
+            "index": 10,
+            "lesson": 2,
+            "picture": "assets/book1/010-picture.webp",
+            "quizPicture": "assets/book1/010-quiz.webp",
+            "characterImage": "assets/book1/010-character.webp",
+            "audio": "audio/words/book1-010.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-011",
+            "char": "手",
+            "index": 11,
+            "lesson": 2,
+            "picture": "assets/book1/011-picture.webp",
+            "quizPicture": "assets/book1/011-quiz.webp",
+            "characterImage": "assets/book1/011-character.webp",
+            "audio": "audio/words/book1-011.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-012",
+            "char": "足",
+            "index": 12,
+            "lesson": 2,
+            "picture": "assets/book1/012-picture.webp",
+            "quizPicture": "assets/book1/012-quiz.webp",
+            "characterImage": "assets/book1/012-character.webp",
+            "audio": "audio/words/book1-012.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-013",
+            "char": "身",
+            "index": 13,
+            "lesson": 2,
+            "picture": "assets/book1/013-picture.webp",
+            "quizPicture": "assets/book1/013-quiz.webp",
+            "characterImage": "assets/book1/013-character.webp",
+            "audio": "audio/words/book1-013.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-014",
+            "char": "一",
+            "index": 14,
+            "lesson": 2,
+            "picture": "assets/book1/014-picture.webp",
+            "quizPicture": "assets/book1/014-quiz.webp",
+            "characterImage": "assets/book1/014-character.webp",
+            "audio": "audio/words/book1-014.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-015",
+            "char": "二",
+            "index": 15,
+            "lesson": 2,
+            "picture": "assets/book1/015-picture.webp",
+            "quizPicture": "assets/book1/015-quiz.webp",
+            "characterImage": "assets/book1/015-character.webp",
+            "audio": "audio/words/book1-015.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-016",
+            "char": "三",
+            "index": 16,
+            "lesson": 2,
+            "picture": "assets/book1/016-picture.webp",
+            "quizPicture": "assets/book1/016-quiz.webp",
+            "characterImage": "assets/book1/016-character.webp",
+            "audio": "audio/words/book1-016.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "items": [
+          {
+            "id": "book1-017",
+            "char": "四",
+            "index": 17,
+            "lesson": 3,
+            "picture": "assets/book1/017-picture.webp",
+            "quizPicture": "assets/book1/017-quiz.webp",
+            "characterImage": "assets/book1/017-character.webp",
+            "audio": "audio/words/book1-017.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-018",
+            "char": "五",
+            "index": 18,
+            "lesson": 3,
+            "picture": "assets/book1/018-picture.webp",
+            "quizPicture": "assets/book1/018-quiz.webp",
+            "characterImage": "assets/book1/018-character.webp",
+            "audio": "audio/words/book1-018.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-019",
+            "char": "六",
+            "index": 19,
+            "lesson": 3,
+            "picture": "assets/book1/019-picture.webp",
+            "quizPicture": "assets/book1/019-quiz.webp",
+            "characterImage": "assets/book1/019-character.webp",
+            "audio": "audio/words/book1-019.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-020",
+            "char": "七",
+            "index": 20,
+            "lesson": 3,
+            "picture": "assets/book1/020-picture.webp",
+            "quizPicture": "assets/book1/020-quiz.webp",
+            "characterImage": "assets/book1/020-character.webp",
+            "audio": "audio/words/book1-020.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-021",
+            "char": "八",
+            "index": 21,
+            "lesson": 3,
+            "picture": "assets/book1/021-picture.webp",
+            "quizPicture": "assets/book1/021-quiz.webp",
+            "characterImage": "assets/book1/021-character.webp",
+            "audio": "audio/words/book1-021.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-022",
+            "char": "九",
+            "index": 22,
+            "lesson": 3,
+            "picture": "assets/book1/022-picture.webp",
+            "quizPicture": "assets/book1/022-quiz.webp",
+            "characterImage": "assets/book1/022-character.webp",
+            "audio": "audio/words/book1-022.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-023",
+            "char": "十",
+            "index": 23,
+            "lesson": 3,
+            "picture": "assets/book1/023-picture.webp",
+            "quizPicture": "assets/book1/023-quiz.webp",
+            "characterImage": "assets/book1/023-character.webp",
+            "audio": "audio/words/book1-023.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-024",
+            "char": "马",
+            "index": 24,
+            "lesson": 3,
+            "picture": "assets/book1/024-picture.webp",
+            "quizPicture": "assets/book1/024-quiz.webp",
+            "characterImage": "assets/book1/024-character.webp",
+            "audio": "audio/words/book1-024.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "items": [
+          {
+            "id": "book1-025",
+            "char": "牛",
+            "index": 25,
+            "lesson": 4,
+            "picture": "assets/book1/025-picture.webp",
+            "quizPicture": "assets/book1/025-quiz.webp",
+            "characterImage": "assets/book1/025-character.webp",
+            "audio": "audio/words/book1-025.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-026",
+            "char": "羊",
+            "index": 26,
+            "lesson": 4,
+            "picture": "assets/book1/026-picture.webp",
+            "quizPicture": "assets/book1/026-quiz.webp",
+            "characterImage": "assets/book1/026-character.webp",
+            "audio": "audio/words/book1-026.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-027",
+            "char": "鱼",
+            "index": 27,
+            "lesson": 4,
+            "picture": "assets/book1/027-picture.webp",
+            "quizPicture": "assets/book1/027-quiz.webp",
+            "characterImage": "assets/book1/027-character.webp",
+            "audio": "audio/words/book1-027.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-028",
+            "char": "虫",
+            "index": 28,
+            "lesson": 4,
+            "picture": "assets/book1/028-picture.webp",
+            "quizPicture": "assets/book1/028-quiz.webp",
+            "characterImage": "assets/book1/028-character.webp",
+            "audio": "audio/words/book1-028.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-029",
+            "char": "鸟",
+            "index": 29,
+            "lesson": 4,
+            "picture": "assets/book1/029-picture.webp",
+            "quizPicture": "assets/book1/029-quiz.webp",
+            "characterImage": "assets/book1/029-character.webp",
+            "audio": "audio/words/book1-029.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-030",
+            "char": "天",
+            "index": 30,
+            "lesson": 4,
+            "picture": "assets/book1/030-picture.webp",
+            "quizPicture": "assets/book1/030-quiz.webp",
+            "characterImage": "assets/book1/030-character.webp",
+            "audio": "audio/words/book1-030.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-031",
+            "char": "日",
+            "index": 31,
+            "lesson": 4,
+            "picture": "assets/book1/031-picture.webp",
+            "quizPicture": "assets/book1/031-quiz.webp",
+            "characterImage": "assets/book1/031-character.webp",
+            "audio": "audio/words/book1-031.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-032",
+            "char": "月",
+            "index": 32,
+            "lesson": 4,
+            "picture": "assets/book1/032-picture.webp",
+            "quizPicture": "assets/book1/032-quiz.webp",
+            "characterImage": "assets/book1/032-character.webp",
+            "audio": "audio/words/book1-032.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "items": [
+          {
+            "id": "book1-033",
+            "char": "云",
+            "index": 33,
+            "lesson": 5,
+            "picture": "assets/book1/033-picture.webp",
+            "quizPicture": "assets/book1/033-quiz.webp",
+            "characterImage": "assets/book1/033-character.webp",
+            "audio": "audio/words/book1-033.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-034",
+            "char": "风",
+            "index": 34,
+            "lesson": 5,
+            "picture": "assets/book1/034-picture.webp",
+            "quizPicture": "assets/book1/034-quiz.webp",
+            "characterImage": "assets/book1/034-character.webp",
+            "audio": "audio/words/book1-034.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-035",
+            "char": "雨",
+            "index": 35,
+            "lesson": 5,
+            "picture": "assets/book1/035-picture.webp",
+            "quizPicture": "assets/book1/035-quiz.webp",
+            "characterImage": "assets/book1/035-character.webp",
+            "audio": "audio/words/book1-035.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-036",
+            "char": "雪",
+            "index": 36,
+            "lesson": 5,
+            "picture": "assets/book1/036-picture.webp",
+            "quizPicture": "assets/book1/036-quiz.webp",
+            "characterImage": "assets/book1/036-character.webp",
+            "audio": "audio/words/book1-036.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-037",
+            "char": "雷",
+            "index": 37,
+            "lesson": 5,
+            "picture": "assets/book1/037-picture.webp",
+            "quizPicture": "assets/book1/037-quiz.webp",
+            "characterImage": "assets/book1/037-character.webp",
+            "audio": "audio/words/book1-037.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-038",
+            "char": "电",
+            "index": 38,
+            "lesson": 5,
+            "picture": "assets/book1/038-picture.webp",
+            "quizPicture": "assets/book1/038-quiz.webp",
+            "characterImage": "assets/book1/038-character.webp",
+            "audio": "audio/words/book1-038.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-039",
+            "char": "田",
+            "index": 39,
+            "lesson": 5,
+            "picture": "assets/book1/039-picture.webp",
+            "quizPicture": "assets/book1/039-quiz.webp",
+            "characterImage": "assets/book1/039-character.webp",
+            "audio": "audio/words/book1-039.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-040",
+            "char": "木",
+            "index": 40,
+            "lesson": 5,
+            "picture": "assets/book1/040-picture.webp",
+            "quizPicture": "assets/book1/040-quiz.webp",
+            "characterImage": "assets/book1/040-character.webp",
+            "audio": "audio/words/book1-040.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "items": [
+          {
+            "id": "book1-041",
+            "char": "米",
+            "index": 41,
+            "lesson": 6,
+            "picture": "assets/book1/041-picture.webp",
+            "quizPicture": "assets/book1/041-quiz.webp",
+            "characterImage": "assets/book1/041-character.webp",
+            "audio": "audio/words/book1-041.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-042",
+            "char": "果",
+            "index": 42,
+            "lesson": 6,
+            "picture": "assets/book1/042-picture.webp",
+            "quizPicture": "assets/book1/042-quiz.webp",
+            "characterImage": "assets/book1/042-character.webp",
+            "audio": "audio/words/book1-042.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-043",
+            "char": "瓜",
+            "index": 43,
+            "lesson": 6,
+            "picture": "assets/book1/043-picture.webp",
+            "quizPicture": "assets/book1/043-quiz.webp",
+            "characterImage": "assets/book1/043-character.webp",
+            "audio": "audio/words/book1-043.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-044",
+            "char": "禾",
+            "index": 44,
+            "lesson": 6,
+            "picture": "assets/book1/044-picture.webp",
+            "quizPicture": "assets/book1/044-quiz.webp",
+            "characterImage": "assets/book1/044-character.webp",
+            "audio": "audio/words/book1-044.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-045",
+            "char": "苗",
+            "index": 45,
+            "lesson": 6,
+            "picture": "assets/book1/045-picture.webp",
+            "quizPicture": "assets/book1/045-quiz.webp",
+            "characterImage": "assets/book1/045-character.webp",
+            "audio": "audio/words/book1-045.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-046",
+            "char": "森",
+            "index": 46,
+            "lesson": 6,
+            "picture": "assets/book1/046-picture.webp",
+            "quizPicture": "assets/book1/046-quiz.webp",
+            "characterImage": "assets/book1/046-character.webp",
+            "audio": "audio/words/book1-046.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-047",
+            "char": "林",
+            "index": 47,
+            "lesson": 6,
+            "picture": "assets/book1/047-picture.webp",
+            "quizPicture": "assets/book1/047-quiz.webp",
+            "characterImage": "assets/book1/047-character.webp",
+            "audio": "audio/words/book1-047.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-048",
+            "char": "石",
+            "index": 48,
+            "lesson": 6,
+            "picture": "assets/book1/048-picture.webp",
+            "quizPicture": "assets/book1/048-quiz.webp",
+            "characterImage": "assets/book1/048-character.webp",
+            "audio": "audio/words/book1-048.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "items": [
+          {
+            "id": "book1-049",
+            "char": "亭",
+            "index": 49,
+            "lesson": 7,
+            "picture": "assets/book1/049-picture.webp",
+            "quizPicture": "assets/book1/049-quiz.webp",
+            "characterImage": "assets/book1/049-character.webp",
+            "audio": "audio/words/book1-049.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-050",
+            "char": "花",
+            "index": 50,
+            "lesson": 7,
+            "picture": "assets/book1/050-picture.webp",
+            "quizPicture": "assets/book1/050-quiz.webp",
+            "characterImage": "assets/book1/050-character.webp",
+            "audio": "audio/words/book1-050.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-051",
+            "char": "草",
+            "index": 51,
+            "lesson": 7,
+            "picture": "assets/book1/051-picture.webp",
+            "quizPicture": "assets/book1/051-quiz.webp",
+            "characterImage": "assets/book1/051-character.webp",
+            "audio": "audio/words/book1-051.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-052",
+            "char": "山",
+            "index": 52,
+            "lesson": 7,
+            "picture": "assets/book1/052-picture.webp",
+            "quizPicture": "assets/book1/052-quiz.webp",
+            "characterImage": "assets/book1/052-character.webp",
+            "audio": "audio/words/book1-052.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-053",
+            "char": "叶",
+            "index": 53,
+            "lesson": 7,
+            "picture": "assets/book1/053-picture.webp",
+            "quizPicture": "assets/book1/053-quiz.webp",
+            "characterImage": "assets/book1/053-character.webp",
+            "audio": "audio/words/book1-053.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-054",
+            "char": "竹",
+            "index": 54,
+            "lesson": 7,
+            "picture": "assets/book1/054-picture.webp",
+            "quizPicture": "assets/book1/054-quiz.webp",
+            "characterImage": "assets/book1/054-character.webp",
+            "audio": "audio/words/book1-054.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-055",
+            "char": "水",
+            "index": 55,
+            "lesson": 7,
+            "picture": "assets/book1/055-picture.webp",
+            "quizPicture": "assets/book1/055-quiz.webp",
+            "characterImage": "assets/book1/055-character.webp",
+            "audio": "audio/words/book1-055.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-056",
+            "char": "土",
+            "index": 56,
+            "lesson": 7,
+            "picture": "assets/book1/056-picture.webp",
+            "quizPicture": "assets/book1/056-quiz.webp",
+            "characterImage": "assets/book1/056-character.webp",
+            "audio": "audio/words/book1-056.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "items": [
+          {
+            "id": "book1-057",
+            "char": "方",
+            "index": 57,
+            "lesson": 8,
+            "picture": "assets/book1/057-picture.webp",
+            "quizPicture": "assets/book1/057-quiz.webp",
+            "characterImage": "assets/book1/057-character.webp",
+            "audio": "audio/words/book1-057.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-058",
+            "char": "圆",
+            "index": 58,
+            "lesson": 8,
+            "picture": "assets/book1/058-picture.webp",
+            "quizPicture": "assets/book1/058-quiz.webp",
+            "characterImage": "assets/book1/058-character.webp",
+            "audio": "audio/words/book1-058.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-059",
+            "char": "尖",
+            "index": 59,
+            "lesson": 8,
+            "picture": "assets/book1/059-picture.webp",
+            "quizPicture": "assets/book1/059-quiz.webp",
+            "characterImage": "assets/book1/059-character.webp",
+            "audio": "audio/words/book1-059.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-060",
+            "char": "大",
+            "index": 60,
+            "lesson": 8,
+            "picture": "assets/book1/060-picture.webp",
+            "quizPicture": "assets/book1/060-quiz.webp",
+            "characterImage": "assets/book1/060-character.webp",
+            "audio": "audio/words/book1-060.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-061",
+            "char": "小",
+            "index": 61,
+            "lesson": 8,
+            "picture": "assets/book1/061-picture.webp",
+            "quizPicture": "assets/book1/061-quiz.webp",
+            "characterImage": "assets/book1/061-character.webp",
+            "audio": "audio/words/book1-061.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-062",
+            "char": "高",
+            "index": 62,
+            "lesson": 8,
+            "picture": "assets/book1/062-picture.webp",
+            "quizPicture": "assets/book1/062-quiz.webp",
+            "characterImage": "assets/book1/062-character.webp",
+            "audio": "audio/words/book1-062.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-063",
+            "char": "长",
+            "index": 63,
+            "lesson": 8,
+            "picture": "assets/book1/063-picture.webp",
+            "quizPicture": "assets/book1/063-quiz.webp",
+            "characterImage": "assets/book1/063-character.webp",
+            "audio": "audio/words/book1-063.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-064",
+            "char": "弓",
+            "index": 64,
+            "lesson": 8,
+            "picture": "assets/book1/064-picture.webp",
+            "quizPicture": "assets/book1/064-quiz.webp",
+            "characterImage": "assets/book1/064-character.webp",
+            "audio": "audio/words/book1-064.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "items": [
+          {
+            "id": "book1-065",
+            "char": "刀",
+            "index": 65,
+            "lesson": 9,
+            "picture": "assets/book1/065-picture.webp",
+            "quizPicture": "assets/book1/065-quiz.webp",
+            "characterImage": "assets/book1/065-character.webp",
+            "audio": "audio/words/book1-065.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-066",
+            "char": "勺",
+            "index": 66,
+            "lesson": 9,
+            "picture": "assets/book1/066-picture.webp",
+            "quizPicture": "assets/book1/066-quiz.webp",
+            "characterImage": "assets/book1/066-character.webp",
+            "audio": "audio/words/book1-066.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-067",
+            "char": "面",
+            "index": 67,
+            "lesson": 9,
+            "picture": "assets/book1/067-picture.webp",
+            "quizPicture": "assets/book1/067-quiz.webp",
+            "characterImage": "assets/book1/067-character.webp",
+            "audio": "audio/words/book1-067.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-068",
+            "char": "豆",
+            "index": 68,
+            "lesson": 9,
+            "picture": "assets/book1/068-picture.webp",
+            "quizPicture": "assets/book1/068-quiz.webp",
+            "characterImage": "assets/book1/068-character.webp",
+            "audio": "audio/words/book1-068.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-069",
+            "char": "气",
+            "index": 69,
+            "lesson": 9,
+            "picture": "assets/book1/069-picture.webp",
+            "quizPicture": "assets/book1/069-quiz.webp",
+            "characterImage": "assets/book1/069-character.webp",
+            "audio": "audio/words/book1-069.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-070",
+            "char": "分",
+            "index": 70,
+            "lesson": 9,
+            "picture": "assets/book1/070-picture.webp",
+            "quizPicture": "assets/book1/070-quiz.webp",
+            "characterImage": "assets/book1/070-character.webp",
+            "audio": "audio/words/book1-070.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-071",
+            "char": "半",
+            "index": 71,
+            "lesson": 9,
+            "picture": "assets/book1/071-picture.webp",
+            "quizPicture": "assets/book1/071-quiz.webp",
+            "characterImage": "assets/book1/071-character.webp",
+            "audio": "audio/words/book1-071.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-072",
+            "char": "点",
+            "index": 72,
+            "lesson": 9,
+            "picture": "assets/book1/072-picture.webp",
+            "quizPicture": "assets/book1/072-quiz.webp",
+            "characterImage": "assets/book1/072-character.webp",
+            "audio": "audio/words/book1-072.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "items": [
+          {
+            "id": "book1-073",
+            "char": "出",
+            "index": 73,
+            "lesson": 10,
+            "picture": "assets/book1/073-picture.webp",
+            "quizPicture": "assets/book1/073-quiz.webp",
+            "characterImage": "assets/book1/073-character.webp",
+            "audio": "audio/words/book1-073.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-074",
+            "char": "入",
+            "index": 74,
+            "lesson": 10,
+            "picture": "assets/book1/074-picture.webp",
+            "quizPicture": "assets/book1/074-quiz.webp",
+            "characterImage": "assets/book1/074-character.webp",
+            "audio": "audio/words/book1-074.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-075",
+            "char": "里",
+            "index": 75,
+            "lesson": 10,
+            "picture": "assets/book1/075-picture.webp",
+            "quizPicture": "assets/book1/075-quiz.webp",
+            "characterImage": "assets/book1/075-character.webp",
+            "audio": "audio/words/book1-075.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-076",
+            "char": "外",
+            "index": 76,
+            "lesson": 10,
+            "picture": "assets/book1/076-picture.webp",
+            "quizPicture": "assets/book1/076-quiz.webp",
+            "characterImage": "assets/book1/076-character.webp",
+            "audio": "audio/words/book1-076.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-077",
+            "char": "开",
+            "index": 77,
+            "lesson": 10,
+            "picture": "assets/book1/077-picture.webp",
+            "quizPicture": "assets/book1/077-quiz.webp",
+            "characterImage": "assets/book1/077-character.webp",
+            "audio": "audio/words/book1-077.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-078",
+            "char": "关",
+            "index": 78,
+            "lesson": 10,
+            "picture": "assets/book1/078-picture.webp",
+            "quizPicture": "assets/book1/078-quiz.webp",
+            "characterImage": "assets/book1/078-character.webp",
+            "audio": "audio/words/book1-078.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-079",
+            "char": "多",
+            "index": 79,
+            "lesson": 10,
+            "picture": "assets/book1/079-picture.webp",
+            "quizPicture": "assets/book1/079-quiz.webp",
+            "characterImage": "assets/book1/079-character.webp",
+            "audio": "audio/words/book1-079.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-080",
+            "char": "少",
+            "index": 80,
+            "lesson": 10,
+            "picture": "assets/book1/080-picture.webp",
+            "quizPicture": "assets/book1/080-quiz.webp",
+            "characterImage": "assets/book1/080-character.webp",
+            "audio": "audio/words/book1-080.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "items": [
+          {
+            "id": "book1-081",
+            "char": "上",
+            "index": 81,
+            "lesson": 11,
+            "picture": "assets/book1/081-picture.webp",
+            "quizPicture": "assets/book1/081-quiz.webp",
+            "characterImage": "assets/book1/081-character.webp",
+            "audio": "audio/words/book1-081.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-082",
+            "char": "下",
+            "index": 82,
+            "lesson": 11,
+            "picture": "assets/book1/082-picture.webp",
+            "quizPicture": "assets/book1/082-quiz.webp",
+            "characterImage": "assets/book1/082-character.webp",
+            "audio": "audio/words/book1-082.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-083",
+            "char": "弯",
+            "index": 83,
+            "lesson": 11,
+            "picture": "assets/book1/083-picture.webp",
+            "quizPicture": "assets/book1/083-quiz.webp",
+            "characterImage": "assets/book1/083-character.webp",
+            "audio": "audio/words/book1-083.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-084",
+            "char": "直",
+            "index": 84,
+            "lesson": 11,
+            "picture": "assets/book1/084-picture.webp",
+            "quizPicture": "assets/book1/084-quiz.webp",
+            "characterImage": "assets/book1/084-character.webp",
+            "audio": "audio/words/book1-084.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-085",
+            "char": "来",
+            "index": 85,
+            "lesson": 11,
+            "picture": "assets/book1/085-picture.webp",
+            "quizPicture": "assets/book1/085-quiz.webp",
+            "characterImage": "assets/book1/085-character.webp",
+            "audio": "audio/words/book1-085.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-086",
+            "char": "去",
+            "index": 86,
+            "lesson": 11,
+            "picture": "assets/book1/086-picture.webp",
+            "quizPicture": "assets/book1/086-quiz.webp",
+            "characterImage": "assets/book1/086-character.webp",
+            "audio": "audio/words/book1-086.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-087",
+            "char": "吃",
+            "index": 87,
+            "lesson": 11,
+            "picture": "assets/book1/087-picture.webp",
+            "quizPicture": "assets/book1/087-quiz.webp",
+            "characterImage": "assets/book1/087-character.webp",
+            "audio": "audio/words/book1-087.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-088",
+            "char": "喝",
+            "index": 88,
+            "lesson": 11,
+            "picture": "assets/book1/088-picture.webp",
+            "quizPicture": "assets/book1/088-quiz.webp",
+            "characterImage": "assets/book1/088-character.webp",
+            "audio": "audio/words/book1-088.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "items": [
+          {
+            "id": "book1-089",
+            "char": "吐",
+            "index": 89,
+            "lesson": 12,
+            "picture": "assets/book1/089-picture.webp",
+            "quizPicture": "assets/book1/089-quiz.webp",
+            "characterImage": "assets/book1/089-character.webp",
+            "audio": "audio/words/book1-089.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-090",
+            "char": "立",
+            "index": 90,
+            "lesson": 12,
+            "picture": "assets/book1/090-picture.webp",
+            "quizPicture": "assets/book1/090-quiz.webp",
+            "characterImage": "assets/book1/090-character.webp",
+            "audio": "audio/words/book1-090.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-091",
+            "char": "坐",
+            "index": 91,
+            "lesson": 12,
+            "picture": "assets/book1/091-picture.webp",
+            "quizPicture": "assets/book1/091-quiz.webp",
+            "characterImage": "assets/book1/091-character.webp",
+            "audio": "audio/words/book1-091.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-092",
+            "char": "走",
+            "index": 92,
+            "lesson": 12,
+            "picture": "assets/book1/092-picture.webp",
+            "quizPicture": "assets/book1/092-quiz.webp",
+            "characterImage": "assets/book1/092-character.webp",
+            "audio": "audio/words/book1-092.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-093",
+            "char": "飞",
+            "index": 93,
+            "lesson": 12,
+            "picture": "assets/book1/093-picture.webp",
+            "quizPicture": "assets/book1/093-quiz.webp",
+            "characterImage": "assets/book1/093-character.webp",
+            "audio": "audio/words/book1-093.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-094",
+            "char": "看",
+            "index": 94,
+            "lesson": 12,
+            "picture": "assets/book1/094-picture.webp",
+            "quizPicture": "assets/book1/094-quiz.webp",
+            "characterImage": "assets/book1/094-character.webp",
+            "audio": "audio/words/book1-094.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-095",
+            "char": "问",
+            "index": 95,
+            "lesson": 12,
+            "picture": "assets/book1/095-picture.webp",
+            "quizPicture": "assets/book1/095-quiz.webp",
+            "characterImage": "assets/book1/095-character.webp",
+            "audio": "audio/words/book1-095.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-096",
+            "char": "哭",
+            "index": 96,
+            "lesson": 12,
+            "picture": "assets/book1/096-picture.webp",
+            "quizPicture": "assets/book1/096-quiz.webp",
+            "characterImage": "assets/book1/096-character.webp",
+            "audio": "audio/words/book1-096.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "items": [
+          {
+            "id": "book1-097",
+            "char": "笑",
+            "index": 97,
+            "lesson": 13,
+            "picture": "assets/book1/097-picture.webp",
+            "quizPicture": "assets/book1/097-quiz.webp",
+            "characterImage": "assets/book1/097-character.webp",
+            "audio": "audio/words/book1-097.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-098",
+            "char": "车",
+            "index": 98,
+            "lesson": 13,
+            "picture": "assets/book1/098-picture.webp",
+            "quizPicture": "assets/book1/098-quiz.webp",
+            "characterImage": "assets/book1/098-character.webp",
+            "audio": "audio/words/book1-098.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-099",
+            "char": "门",
+            "index": 99,
+            "lesson": 13,
+            "picture": "assets/book1/099-picture.webp",
+            "quizPicture": "assets/book1/099-quiz.webp",
+            "characterImage": "assets/book1/099-character.webp",
+            "audio": "audio/words/book1-099.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-100",
+            "char": "井",
+            "index": 100,
+            "lesson": 13,
+            "picture": "assets/book1/100-picture.webp",
+            "quizPicture": "assets/book1/100-quiz.webp",
+            "characterImage": "assets/book1/100-character.webp",
+            "audio": "audio/words/book1-100.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-101",
+            "char": "伞",
+            "index": 101,
+            "lesson": 13,
+            "picture": "assets/book1/101-picture.webp",
+            "quizPicture": "assets/book1/101-quiz.webp",
+            "characterImage": "assets/book1/101-character.webp",
+            "audio": "audio/words/book1-101.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-102",
+            "char": "包",
+            "index": 102,
+            "lesson": 13,
+            "picture": "assets/book1/102-picture.webp",
+            "quizPicture": "assets/book1/102-quiz.webp",
+            "characterImage": "assets/book1/102-character.webp",
+            "audio": "audio/words/book1-102.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-103",
+            "char": "布",
+            "index": 103,
+            "lesson": 13,
+            "picture": "assets/book1/103-picture.webp",
+            "quizPicture": "assets/book1/103-quiz.webp",
+            "characterImage": "assets/book1/103-character.webp",
+            "audio": "audio/words/book1-103.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-104",
+            "char": "皮",
+            "index": 104,
+            "lesson": 13,
+            "picture": "assets/book1/104-picture.webp",
+            "quizPicture": "assets/book1/104-quiz.webp",
+            "characterImage": "assets/book1/104-character.webp",
+            "audio": "audio/words/book1-104.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "items": [
+          {
+            "id": "book1-105",
+            "char": "书",
+            "index": 105,
+            "lesson": 14,
+            "picture": "assets/book1/105-picture.webp",
+            "quizPicture": "assets/book1/105-quiz.webp",
+            "characterImage": "assets/book1/105-character.webp",
+            "audio": "audio/words/book1-105.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-106",
+            "char": "画",
+            "index": 106,
+            "lesson": 14,
+            "picture": "assets/book1/106-picture.webp",
+            "quizPicture": "assets/book1/106-quiz.webp",
+            "characterImage": "assets/book1/106-character.webp",
+            "audio": "audio/words/book1-106.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-107",
+            "char": "灯",
+            "index": 107,
+            "lesson": 14,
+            "picture": "assets/book1/107-picture.webp",
+            "quizPicture": "assets/book1/107-quiz.webp",
+            "characterImage": "assets/book1/107-character.webp",
+            "audio": "audio/words/book1-107.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-108",
+            "char": "光",
+            "index": 108,
+            "lesson": 14,
+            "picture": "assets/book1/108-picture.webp",
+            "quizPicture": "assets/book1/108-quiz.webp",
+            "characterImage": "assets/book1/108-character.webp",
+            "audio": "audio/words/book1-108.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-109",
+            "char": "衣",
+            "index": 109,
+            "lesson": 14,
+            "picture": "assets/book1/109-picture.webp",
+            "quizPicture": "assets/book1/109-quiz.webp",
+            "characterImage": "assets/book1/109-character.webp",
+            "audio": "audio/words/book1-109.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-110",
+            "char": "裙",
+            "index": 110,
+            "lesson": 14,
+            "picture": "assets/book1/110-picture.webp",
+            "quizPicture": "assets/book1/110-quiz.webp",
+            "characterImage": "assets/book1/110-character.webp",
+            "audio": "audio/words/book1-110.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-111",
+            "char": "袜",
+            "index": 111,
+            "lesson": 14,
+            "picture": "assets/book1/111-picture.webp",
+            "quizPicture": "assets/book1/111-quiz.webp",
+            "characterImage": "assets/book1/111-character.webp",
+            "audio": "audio/words/book1-111.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-112",
+            "char": "裤",
+            "index": 112,
+            "lesson": 14,
+            "picture": "assets/book1/112-picture.webp",
+            "quizPicture": "assets/book1/112-quiz.webp",
+            "characterImage": "assets/book1/112-character.webp",
+            "audio": "audio/words/book1-112.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "items": [
+          {
+            "id": "book1-113",
+            "char": "鞋",
+            "index": 113,
+            "lesson": 15,
+            "picture": "assets/book1/113-picture.webp",
+            "quizPicture": "assets/book1/113-quiz.webp",
+            "characterImage": "assets/book1/113-character.webp",
+            "audio": "audio/words/book1-113.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-114",
+            "char": "帽",
+            "index": 114,
+            "lesson": 15,
+            "picture": "assets/book1/114-picture.webp",
+            "quizPicture": "assets/book1/114-quiz.webp",
+            "characterImage": "assets/book1/114-character.webp",
+            "audio": "audio/words/book1-114.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-115",
+            "char": "毛",
+            "index": 115,
+            "lesson": 15,
+            "picture": "assets/book1/115-picture.webp",
+            "quizPicture": "assets/book1/115-quiz.webp",
+            "characterImage": "assets/book1/115-character.webp",
+            "audio": "audio/words/book1-115.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-116",
+            "char": "巾",
+            "index": 116,
+            "lesson": 15,
+            "picture": "assets/book1/116-picture.webp",
+            "quizPicture": "assets/book1/116-quiz.webp",
+            "characterImage": "assets/book1/116-character.webp",
+            "audio": "audio/words/book1-116.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-117",
+            "char": "工",
+            "index": 117,
+            "lesson": 15,
+            "picture": "assets/book1/117-picture.webp",
+            "quizPicture": "assets/book1/117-quiz.webp",
+            "characterImage": "assets/book1/117-character.webp",
+            "audio": "audio/words/book1-117.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-118",
+            "char": "厂",
+            "index": 118,
+            "lesson": 15,
+            "picture": "assets/book1/118-picture.webp",
+            "quizPicture": "assets/book1/118-quiz.webp",
+            "characterImage": "assets/book1/118-character.webp",
+            "audio": "audio/words/book1-118.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-119",
+            "char": "灭",
+            "index": 119,
+            "lesson": 15,
+            "picture": "assets/book1/119-picture.webp",
+            "quizPicture": "assets/book1/119-quiz.webp",
+            "characterImage": "assets/book1/119-character.webp",
+            "audio": "audio/words/book1-119.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-120",
+            "char": "火",
+            "index": 120,
+            "lesson": 15,
+            "picture": "assets/book1/120-picture.webp",
+            "quizPicture": "assets/book1/120-quiz.webp",
+            "characterImage": "assets/book1/120-character.webp",
+            "audio": "audio/words/book1-120.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 16,
+        "items": [
+          {
+            "id": "book1-121",
+            "char": "灰",
+            "index": 121,
+            "lesson": 16,
+            "picture": "assets/book1/121-picture.webp",
+            "quizPicture": "assets/book1/121-quiz.webp",
+            "characterImage": "assets/book1/121-character.webp",
+            "audio": "audio/words/book1-121.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-122",
+            "char": "尘",
+            "index": 122,
+            "lesson": 16,
+            "picture": "assets/book1/122-picture.webp",
+            "quizPicture": "assets/book1/122-quiz.webp",
+            "characterImage": "assets/book1/122-character.webp",
+            "audio": "audio/words/book1-122.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-123",
+            "char": "家",
+            "index": 123,
+            "lesson": 16,
+            "picture": "assets/book1/123-picture.webp",
+            "quizPicture": "assets/book1/123-quiz.webp",
+            "characterImage": "assets/book1/123-character.webp",
+            "audio": "audio/words/book1-123.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-124",
+            "char": "爷",
+            "index": 124,
+            "lesson": 16,
+            "picture": "assets/book1/124-picture.webp",
+            "quizPicture": "assets/book1/124-quiz.webp",
+            "characterImage": "assets/book1/124-character.webp",
+            "audio": "audio/words/book1-124.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-125",
+            "char": "奶",
+            "index": 125,
+            "lesson": 16,
+            "picture": "assets/book1/125-picture.webp",
+            "quizPicture": "assets/book1/125-quiz.webp",
+            "characterImage": "assets/book1/125-character.webp",
+            "audio": "audio/words/book1-125.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-126",
+            "char": "妈",
+            "index": 126,
+            "lesson": 16,
+            "picture": "assets/book1/126-picture.webp",
+            "quizPicture": "assets/book1/126-quiz.webp",
+            "characterImage": "assets/book1/126-character.webp",
+            "audio": "audio/words/book1-126.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-127",
+            "char": "爸",
+            "index": 127,
+            "lesson": 16,
+            "picture": "assets/book1/127-picture.webp",
+            "quizPicture": "assets/book1/127-quiz.webp",
+            "characterImage": "assets/book1/127-character.webp",
+            "audio": "audio/words/book1-127.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-128",
+            "char": "哥",
+            "index": 128,
+            "lesson": 16,
+            "picture": "assets/book1/128-picture.webp",
+            "quizPicture": "assets/book1/128-quiz.webp",
+            "characterImage": "assets/book1/128-character.webp",
+            "audio": "audio/words/book1-128.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 17,
+        "items": [
+          {
+            "id": "book1-129",
+            "char": "弟",
+            "index": 129,
+            "lesson": 17,
+            "picture": "assets/book1/129-picture.webp",
+            "quizPicture": "assets/book1/129-quiz.webp",
+            "characterImage": "assets/book1/129-character.webp",
+            "audio": "audio/words/book1-129.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-130",
+            "char": "姐",
+            "index": 130,
+            "lesson": 17,
+            "picture": "assets/book1/130-picture.webp",
+            "quizPicture": "assets/book1/130-quiz.webp",
+            "characterImage": "assets/book1/130-character.webp",
+            "audio": "audio/words/book1-130.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-131",
+            "char": "妹",
+            "index": 131,
+            "lesson": 17,
+            "picture": "assets/book1/131-picture.webp",
+            "quizPicture": "assets/book1/131-quiz.webp",
+            "characterImage": "assets/book1/131-character.webp",
+            "audio": "audio/words/book1-131.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-132",
+            "char": "我",
+            "index": 132,
+            "lesson": 17,
+            "picture": "assets/book1/132-picture.webp",
+            "quizPicture": "assets/book1/132-quiz.webp",
+            "characterImage": "assets/book1/132-character.webp",
+            "audio": "audio/words/book1-132.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-133",
+            "char": "你",
+            "index": 133,
+            "lesson": 17,
+            "picture": "assets/book1/133-picture.webp",
+            "quizPicture": "assets/book1/133-quiz.webp",
+            "characterImage": "assets/book1/133-character.webp",
+            "audio": "audio/words/book1-133.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-134",
+            "char": "男",
+            "index": 134,
+            "lesson": 17,
+            "picture": "assets/book1/134-picture.webp",
+            "quizPicture": "assets/book1/134-quiz.webp",
+            "characterImage": "assets/book1/134-character.webp",
+            "audio": "audio/words/book1-134.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-135",
+            "char": "女",
+            "index": 135,
+            "lesson": 17,
+            "picture": "assets/book1/135-picture.webp",
+            "quizPicture": "assets/book1/135-quiz.webp",
+            "characterImage": "assets/book1/135-character.webp",
+            "audio": "audio/words/book1-135.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-136",
+            "char": "前",
+            "index": 136,
+            "lesson": 17,
+            "picture": "assets/book1/136-picture.webp",
+            "quizPicture": "assets/book1/136-quiz.webp",
+            "characterImage": "assets/book1/136-character.webp",
+            "audio": "audio/words/book1-136.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 18,
+        "items": [
+          {
+            "id": "book1-137",
+            "char": "后",
+            "index": 137,
+            "lesson": 18,
+            "picture": "assets/book1/137-picture.webp",
+            "quizPicture": "assets/book1/137-quiz.webp",
+            "characterImage": "assets/book1/137-character.webp",
+            "audio": "audio/words/book1-137.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-138",
+            "char": "左",
+            "index": 138,
+            "lesson": 18,
+            "picture": "assets/book1/138-picture.webp",
+            "quizPicture": "assets/book1/138-quiz.webp",
+            "characterImage": "assets/book1/138-character.webp",
+            "audio": "audio/words/book1-138.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-139",
+            "char": "右",
+            "index": 139,
+            "lesson": 18,
+            "picture": "assets/book1/139-picture.webp",
+            "quizPicture": "assets/book1/139-quiz.webp",
+            "characterImage": "assets/book1/139-character.webp",
+            "audio": "audio/words/book1-139.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-140",
+            "char": "东",
+            "index": 140,
+            "lesson": 18,
+            "picture": "assets/book1/140-picture.webp",
+            "quizPicture": "assets/book1/140-quiz.webp",
+            "characterImage": "assets/book1/140-character.webp",
+            "audio": "audio/words/book1-140.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-141",
+            "char": "西",
+            "index": 141,
+            "lesson": 18,
+            "picture": "assets/book1/141-picture.webp",
+            "quizPicture": "assets/book1/141-quiz.webp",
+            "characterImage": "assets/book1/141-character.webp",
+            "audio": "audio/words/book1-141.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-142",
+            "char": "南",
+            "index": 142,
+            "lesson": 18,
+            "picture": "assets/book1/142-picture.webp",
+            "quizPicture": "assets/book1/142-quiz.webp",
+            "characterImage": "assets/book1/142-character.webp",
+            "audio": "audio/words/book1-142.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-143",
+            "char": "北",
+            "index": 143,
+            "lesson": 18,
+            "picture": "assets/book1/143-picture.webp",
+            "quizPicture": "assets/book1/143-quiz.webp",
+            "characterImage": "assets/book1/143-character.webp",
+            "audio": "audio/words/book1-143.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book1-144",
+            "char": "中",
+            "index": 144,
+            "lesson": 18,
+            "picture": "assets/book1/144-picture.webp",
+            "quizPicture": "assets/book1/144-quiz.webp",
+            "characterImage": "assets/book1/144-character.webp",
+            "audio": "audio/words/book1-144.mp3",
+            "audioReady": false
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "id": "book3",
+    "name": "第三册",
+    "subtitle": "认识更多有趣的字",
+    "color": "blue",
+    "lessons": [
+      {
+        "number": 1,
+        "items": [
+          {
+            "id": "book3-001",
+            "char": "白",
+            "index": 1,
+            "lesson": 1,
+            "picture": "assets/book3/001-picture.webp",
+            "quizPicture": "assets/book3/001-quiz.webp",
+            "characterImage": "assets/book3/001-character.webp",
+            "audio": "audio/words/book3-001.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-002",
+            "char": "枝",
+            "index": 2,
+            "lesson": 1,
+            "picture": "assets/book3/002-picture.webp",
+            "quizPicture": "assets/book3/002-quiz.webp",
+            "characterImage": "assets/book3/002-character.webp",
+            "audio": "audio/words/book3-002.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-003",
+            "char": "了",
+            "index": 3,
+            "lesson": 1,
+            "picture": "assets/book3/003-picture.webp",
+            "quizPicture": "assets/book3/003-quiz.webp",
+            "characterImage": "assets/book3/003-character.webp",
+            "audio": "audio/words/book3-003.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-004",
+            "char": "样",
+            "index": 4,
+            "lesson": 1,
+            "picture": "assets/book3/004-picture.webp",
+            "quizPicture": "assets/book3/004-quiz.webp",
+            "characterImage": "assets/book3/004-character.webp",
+            "audio": "audio/words/book3-004.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-005",
+            "char": "院",
+            "index": 5,
+            "lesson": 1,
+            "picture": "assets/book3/005-picture.webp",
+            "quizPicture": "assets/book3/005-quiz.webp",
+            "characterImage": "assets/book3/005-character.webp",
+            "audio": "audio/words/book3-005.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-006",
+            "char": "久",
+            "index": 6,
+            "lesson": 1,
+            "picture": "assets/book3/006-picture.webp",
+            "quizPicture": "assets/book3/006-quiz.webp",
+            "characterImage": "assets/book3/006-character.webp",
+            "audio": "audio/words/book3-006.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-007",
+            "char": "没",
+            "index": 7,
+            "lesson": 1,
+            "picture": "assets/book3/007-picture.webp",
+            "quizPicture": "assets/book3/007-quiz.webp",
+            "characterImage": "assets/book3/007-character.webp",
+            "audio": "audio/words/book3-007.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-008",
+            "char": "班",
+            "index": 8,
+            "lesson": 1,
+            "picture": "assets/book3/008-picture.webp",
+            "quizPicture": "assets/book3/008-quiz.webp",
+            "characterImage": "assets/book3/008-character.webp",
+            "audio": "audio/words/book3-008.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 2,
+        "items": [
+          {
+            "id": "book3-009",
+            "char": "级",
+            "index": 9,
+            "lesson": 2,
+            "picture": "assets/book3/009-picture.webp",
+            "quizPicture": "assets/book3/009-quiz.webp",
+            "characterImage": "assets/book3/009-character.webp",
+            "audio": "audio/words/book3-009.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-010",
+            "char": "借",
+            "index": 10,
+            "lesson": 2,
+            "picture": "assets/book3/010-picture.webp",
+            "quizPicture": "assets/book3/010-quiz.webp",
+            "characterImage": "assets/book3/010-character.webp",
+            "audio": "audio/words/book3-010.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-011",
+            "char": "知",
+            "index": 11,
+            "lesson": 2,
+            "picture": "assets/book3/011-picture.webp",
+            "quizPicture": "assets/book3/011-quiz.webp",
+            "characterImage": "assets/book3/011-character.webp",
+            "audio": "audio/words/book3-011.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-012",
+            "char": "识",
+            "index": 12,
+            "lesson": 2,
+            "picture": "assets/book3/012-picture.webp",
+            "quizPicture": "assets/book3/012-quiz.webp",
+            "characterImage": "assets/book3/012-character.webp",
+            "audio": "audio/words/book3-012.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-013",
+            "char": "算",
+            "index": 13,
+            "lesson": 2,
+            "picture": "assets/book3/013-picture.webp",
+            "quizPicture": "assets/book3/013-quiz.webp",
+            "characterImage": "assets/book3/013-character.webp",
+            "audio": "audio/words/book3-013.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-014",
+            "char": "魔",
+            "index": 14,
+            "lesson": 2,
+            "picture": "assets/book3/014-picture.webp",
+            "quizPicture": "assets/book3/014-quiz.webp",
+            "characterImage": "assets/book3/014-character.webp",
+            "audio": "audio/words/book3-014.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-015",
+            "char": "术",
+            "index": 15,
+            "lesson": 2,
+            "picture": "assets/book3/015-picture.webp",
+            "quizPicture": "assets/book3/015-quiz.webp",
+            "characterImage": "assets/book3/015-character.webp",
+            "audio": "audio/words/book3-015.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-016",
+            "char": "讲",
+            "index": 16,
+            "lesson": 2,
+            "picture": "assets/book3/016-picture.webp",
+            "quizPicture": "assets/book3/016-quiz.webp",
+            "characterImage": "assets/book3/016-character.webp",
+            "audio": "audio/words/book3-016.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 3,
+        "items": [
+          {
+            "id": "book3-017",
+            "char": "完",
+            "index": 17,
+            "lesson": 3,
+            "picture": "assets/book3/017-picture.webp",
+            "quizPicture": "assets/book3/017-quiz.webp",
+            "characterImage": "assets/book3/017-character.webp",
+            "audio": "audio/words/book3-017.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-018",
+            "char": "成",
+            "index": 18,
+            "lesson": 3,
+            "picture": "assets/book3/018-picture.webp",
+            "quizPicture": "assets/book3/018-quiz.webp",
+            "characterImage": "assets/book3/018-character.webp",
+            "audio": "audio/words/book3-018.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-019",
+            "char": "拿",
+            "index": 19,
+            "lesson": 3,
+            "picture": "assets/book3/019-picture.webp",
+            "quizPicture": "assets/book3/019-quiz.webp",
+            "characterImage": "assets/book3/019-character.webp",
+            "audio": "audio/words/book3-019.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-020",
+            "char": "着",
+            "index": 20,
+            "lesson": 3,
+            "picture": "assets/book3/020-picture.webp",
+            "quizPicture": "assets/book3/020-quiz.webp",
+            "characterImage": "assets/book3/020-character.webp",
+            "audio": "audio/words/book3-020.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-021",
+            "char": "老",
+            "index": 21,
+            "lesson": 3,
+            "picture": "assets/book3/021-picture.webp",
+            "quizPicture": "assets/book3/021-quiz.webp",
+            "characterImage": "assets/book3/021-character.webp",
+            "audio": "audio/words/book3-021.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-022",
+            "char": "师",
+            "index": 22,
+            "lesson": 3,
+            "picture": "assets/book3/022-picture.webp",
+            "quizPicture": "assets/book3/022-quiz.webp",
+            "characterImage": "assets/book3/022-character.webp",
+            "audio": "audio/words/book3-022.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-023",
+            "char": "事",
+            "index": 23,
+            "lesson": 3,
+            "picture": "assets/book3/023-picture.webp",
+            "quizPicture": "assets/book3/023-quiz.webp",
+            "characterImage": "assets/book3/023-character.webp",
+            "audio": "audio/words/book3-023.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-024",
+            "char": "故",
+            "index": 24,
+            "lesson": 3,
+            "picture": "assets/book3/024-picture.webp",
+            "quizPicture": "assets/book3/024-quiz.webp",
+            "characterImage": "assets/book3/024-character.webp",
+            "audio": "audio/words/book3-024.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 4,
+        "items": [
+          {
+            "id": "book3-025",
+            "char": "听",
+            "index": 25,
+            "lesson": 4,
+            "picture": "assets/book3/025-picture.webp",
+            "quizPicture": "assets/book3/025-quiz.webp",
+            "characterImage": "assets/book3/025-character.webp",
+            "audio": "audio/words/book3-025.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-026",
+            "char": "懂",
+            "index": 26,
+            "lesson": 4,
+            "picture": "assets/book3/026-picture.webp",
+            "quizPicture": "assets/book3/026-quiz.webp",
+            "characterImage": "assets/book3/026-character.webp",
+            "audio": "audio/words/book3-026.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-027",
+            "char": "趣",
+            "index": 27,
+            "lesson": 4,
+            "picture": "assets/book3/027-picture.webp",
+            "quizPicture": "assets/book3/027-quiz.webp",
+            "characterImage": "assets/book3/027-character.webp",
+            "audio": "audio/words/book3-027.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-028",
+            "char": "得",
+            "index": 28,
+            "lesson": 4,
+            "picture": "assets/book3/028-picture.webp",
+            "quizPicture": "assets/book3/028-quiz.webp",
+            "characterImage": "assets/book3/028-character.webp",
+            "audio": "audio/words/book3-028.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-029",
+            "char": "觉",
+            "index": 29,
+            "lesson": 4,
+            "picture": "assets/book3/029-picture.webp",
+            "quizPicture": "assets/book3/029-quiz.webp",
+            "characterImage": "assets/book3/029-character.webp",
+            "audio": "audio/words/book3-029.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-030",
+            "char": "起",
+            "index": 30,
+            "lesson": 4,
+            "picture": "assets/book3/030-picture.webp",
+            "quizPicture": "assets/book3/030-quiz.webp",
+            "characterImage": "assets/book3/030-character.webp",
+            "audio": "audio/words/book3-030.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-031",
+            "char": "始",
+            "index": 31,
+            "lesson": 4,
+            "picture": "assets/book3/031-picture.webp",
+            "quizPicture": "assets/book3/031-quiz.webp",
+            "characterImage": "assets/book3/031-character.webp",
+            "audio": "audio/words/book3-031.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-032",
+            "char": "专",
+            "index": 32,
+            "lesson": 4,
+            "picture": "assets/book3/032-picture.webp",
+            "quizPicture": "assets/book3/032-quiz.webp",
+            "characterImage": "assets/book3/032-character.webp",
+            "audio": "audio/words/book3-032.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 5,
+        "items": [
+          {
+            "id": "book3-033",
+            "char": "朋",
+            "index": 33,
+            "lesson": 5,
+            "picture": "assets/book3/033-picture.webp",
+            "quizPicture": "assets/book3/033-quiz.webp",
+            "characterImage": "assets/book3/033-character.webp",
+            "audio": "audio/words/book3-033.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-034",
+            "char": "友",
+            "index": 34,
+            "lesson": 5,
+            "picture": "assets/book3/034-picture.webp",
+            "quizPicture": "assets/book3/034-quiz.webp",
+            "characterImage": "assets/book3/034-character.webp",
+            "audio": "audio/words/book3-034.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-035",
+            "char": "象",
+            "index": 35,
+            "lesson": 5,
+            "picture": "assets/book3/035-picture.webp",
+            "quizPicture": "assets/book3/035-quiz.webp",
+            "characterImage": "assets/book3/035-character.webp",
+            "audio": "audio/words/book3-035.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-036",
+            "char": "踢",
+            "index": 36,
+            "lesson": 5,
+            "picture": "assets/book3/036-picture.webp",
+            "quizPicture": "assets/book3/036-quiz.webp",
+            "characterImage": "assets/book3/036-character.webp",
+            "audio": "audio/words/book3-036.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-037",
+            "char": "庭",
+            "index": 37,
+            "lesson": 5,
+            "picture": "assets/book3/037-picture.webp",
+            "quizPicture": "assets/book3/037-quiz.webp",
+            "characterImage": "assets/book3/037-character.webp",
+            "audio": "audio/words/book3-037.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-038",
+            "char": "亲",
+            "index": 38,
+            "lesson": 5,
+            "picture": "assets/book3/038-picture.webp",
+            "quizPicture": "assets/book3/038-quiz.webp",
+            "characterImage": "assets/book3/038-character.webp",
+            "audio": "audio/words/book3-038.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-039",
+            "char": "能",
+            "index": 39,
+            "lesson": 5,
+            "picture": "assets/book3/039-picture.webp",
+            "quizPicture": "assets/book3/039-quiz.webp",
+            "characterImage": "assets/book3/039-character.webp",
+            "audio": "audio/words/book3-039.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-040",
+            "char": "够",
+            "index": 40,
+            "lesson": 5,
+            "picture": "assets/book3/040-picture.webp",
+            "quizPicture": "assets/book3/040-quiz.webp",
+            "characterImage": "assets/book3/040-character.webp",
+            "audio": "audio/words/book3-040.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 6,
+        "items": [
+          {
+            "id": "book3-041",
+            "char": "游",
+            "index": 41,
+            "lesson": 6,
+            "picture": "assets/book3/041-picture.webp",
+            "quizPicture": "assets/book3/041-quiz.webp",
+            "characterImage": "assets/book3/041-character.webp",
+            "audio": "audio/words/book3-041.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-042",
+            "char": "泳",
+            "index": 42,
+            "lesson": 6,
+            "picture": "assets/book3/042-picture.webp",
+            "quizPicture": "assets/book3/042-quiz.webp",
+            "characterImage": "assets/book3/042-character.webp",
+            "audio": "audio/words/book3-042.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-043",
+            "char": "盼",
+            "index": 43,
+            "lesson": 6,
+            "picture": "assets/book3/043-picture.webp",
+            "quizPicture": "assets/book3/043-quiz.webp",
+            "characterImage": "assets/book3/043-character.webp",
+            "audio": "audio/words/book3-043.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-044",
+            "char": "望",
+            "index": 44,
+            "lesson": 6,
+            "picture": "assets/book3/044-picture.webp",
+            "quizPicture": "assets/book3/044-quiz.webp",
+            "characterImage": "assets/book3/044-character.webp",
+            "audio": "audio/words/book3-044.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-045",
+            "char": "跑",
+            "index": 45,
+            "lesson": 6,
+            "picture": "assets/book3/045-picture.webp",
+            "quizPicture": "assets/book3/045-quiz.webp",
+            "characterImage": "assets/book3/045-character.webp",
+            "audio": "audio/words/book3-045.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-046",
+            "char": "步",
+            "index": 46,
+            "lesson": 6,
+            "picture": "assets/book3/046-picture.webp",
+            "quizPicture": "assets/book3/046-quiz.webp",
+            "characterImage": "assets/book3/046-character.webp",
+            "audio": "audio/words/book3-046.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-047",
+            "char": "蹦",
+            "index": 47,
+            "lesson": 6,
+            "picture": "assets/book3/047-picture.webp",
+            "quizPicture": "assets/book3/047-quiz.webp",
+            "characterImage": "assets/book3/047-character.webp",
+            "audio": "audio/words/book3-047.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-048",
+            "char": "跳",
+            "index": 48,
+            "lesson": 6,
+            "picture": "assets/book3/048-picture.webp",
+            "quizPicture": "assets/book3/048-quiz.webp",
+            "characterImage": "assets/book3/048-character.webp",
+            "audio": "audio/words/book3-048.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 7,
+        "items": [
+          {
+            "id": "book3-049",
+            "char": "唱",
+            "index": 49,
+            "lesson": 7,
+            "picture": "assets/book3/049-picture.webp",
+            "quizPicture": "assets/book3/049-quiz.webp",
+            "characterImage": "assets/book3/049-character.webp",
+            "audio": "audio/words/book3-049.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-050",
+            "char": "歌",
+            "index": 50,
+            "lesson": 7,
+            "picture": "assets/book3/050-picture.webp",
+            "quizPicture": "assets/book3/050-quiz.webp",
+            "characterImage": "assets/book3/050-character.webp",
+            "audio": "audio/words/book3-050.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-051",
+            "char": "活",
+            "index": 51,
+            "lesson": 7,
+            "picture": "assets/book3/051-picture.webp",
+            "quizPicture": "assets/book3/051-quiz.webp",
+            "characterImage": "assets/book3/051-character.webp",
+            "audio": "audio/words/book3-051.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-052",
+            "char": "泼",
+            "index": 52,
+            "lesson": 7,
+            "picture": "assets/book3/052-picture.webp",
+            "quizPicture": "assets/book3/052-quiz.webp",
+            "characterImage": "assets/book3/052-character.webp",
+            "audio": "audio/words/book3-052.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-053",
+            "char": "快",
+            "index": 53,
+            "lesson": 7,
+            "picture": "assets/book3/053-picture.webp",
+            "quizPicture": "assets/book3/053-quiz.webp",
+            "characterImage": "assets/book3/053-character.webp",
+            "audio": "audio/words/book3-053.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-054",
+            "char": "乐",
+            "index": 54,
+            "lesson": 7,
+            "picture": "assets/book3/054-picture.webp",
+            "quizPicture": "assets/book3/054-quiz.webp",
+            "characterImage": "assets/book3/054-character.webp",
+            "audio": "audio/words/book3-054.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-055",
+            "char": "那",
+            "index": 55,
+            "lesson": 7,
+            "picture": "assets/book3/055-picture.webp",
+            "quizPicture": "assets/book3/055-quiz.webp",
+            "characterImage": "assets/book3/055-character.webp",
+            "audio": "audio/words/book3-055.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-056",
+            "char": "些",
+            "index": 56,
+            "lesson": 7,
+            "picture": "assets/book3/056-picture.webp",
+            "quizPicture": "assets/book3/056-quiz.webp",
+            "characterImage": "assets/book3/056-character.webp",
+            "audio": "audio/words/book3-056.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 8,
+        "items": [
+          {
+            "id": "book3-057",
+            "char": "像",
+            "index": 57,
+            "lesson": 8,
+            "picture": "assets/book3/057-picture.webp",
+            "quizPicture": "assets/book3/057-quiz.webp",
+            "characterImage": "assets/book3/057-character.webp",
+            "audio": "audio/words/book3-057.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-058",
+            "char": "什",
+            "index": 58,
+            "lesson": 8,
+            "picture": "assets/book3/058-picture.webp",
+            "quizPicture": "assets/book3/058-quiz.webp",
+            "characterImage": "assets/book3/058-character.webp",
+            "audio": "audio/words/book3-058.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-059",
+            "char": "么",
+            "index": 59,
+            "lesson": 8,
+            "picture": "assets/book3/059-picture.webp",
+            "quizPicture": "assets/book3/059-quiz.webp",
+            "characterImage": "assets/book3/059-character.webp",
+            "audio": "audio/words/book3-059.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-060",
+            "char": "怎",
+            "index": 60,
+            "lesson": 8,
+            "picture": "assets/book3/060-picture.webp",
+            "quizPicture": "assets/book3/060-quiz.webp",
+            "characterImage": "assets/book3/060-character.webp",
+            "audio": "audio/words/book3-060.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-061",
+            "char": "病",
+            "index": 61,
+            "lesson": 8,
+            "picture": "assets/book3/061-picture.webp",
+            "quizPicture": "assets/book3/061-quiz.webp",
+            "characterImage": "assets/book3/061-character.webp",
+            "audio": "audio/words/book3-061.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-062",
+            "char": "都",
+            "index": 62,
+            "lesson": 8,
+            "picture": "assets/book3/062-picture.webp",
+            "quizPicture": "assets/book3/062-quiz.webp",
+            "characterImage": "assets/book3/062-character.webp",
+            "audio": "audio/words/book3-062.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-063",
+            "char": "想",
+            "index": 63,
+            "lesson": 8,
+            "picture": "assets/book3/063-picture.webp",
+            "quizPicture": "assets/book3/063-quiz.webp",
+            "characterImage": "assets/book3/063-character.webp",
+            "audio": "audio/words/book3-063.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-064",
+            "char": "学",
+            "index": 64,
+            "lesson": 8,
+            "picture": "assets/book3/064-picture.webp",
+            "quizPicture": "assets/book3/064-quiz.webp",
+            "characterImage": "assets/book3/064-character.webp",
+            "audio": "audio/words/book3-064.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 9,
+        "items": [
+          {
+            "id": "book3-065",
+            "char": "校",
+            "index": 65,
+            "lesson": 9,
+            "picture": "assets/book3/065-picture.webp",
+            "quizPicture": "assets/book3/065-quiz.webp",
+            "characterImage": "assets/book3/065-character.webp",
+            "audio": "audio/words/book3-065.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-066",
+            "char": "排",
+            "index": 66,
+            "lesson": 9,
+            "picture": "assets/book3/066-picture.webp",
+            "quizPicture": "assets/book3/066-quiz.webp",
+            "characterImage": "assets/book3/066-character.webp",
+            "audio": "audio/words/book3-066.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-067",
+            "char": "队",
+            "index": 67,
+            "lesson": 9,
+            "picture": "assets/book3/067-picture.webp",
+            "quizPicture": "assets/book3/067-quiz.webp",
+            "characterImage": "assets/book3/067-character.webp",
+            "audio": "audio/words/book3-067.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-068",
+            "char": "穿",
+            "index": 68,
+            "lesson": 9,
+            "picture": "assets/book3/068-picture.webp",
+            "quizPicture": "assets/book3/068-quiz.webp",
+            "characterImage": "assets/book3/068-character.webp",
+            "audio": "audio/words/book3-068.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-069",
+            "char": "旗",
+            "index": 69,
+            "lesson": 9,
+            "picture": "assets/book3/069-picture.webp",
+            "quizPicture": "assets/book3/069-quiz.webp",
+            "characterImage": "assets/book3/069-character.webp",
+            "audio": "audio/words/book3-069.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-070",
+            "char": "升",
+            "index": 70,
+            "lesson": 9,
+            "picture": "assets/book3/070-picture.webp",
+            "quizPicture": "assets/book3/070-quiz.webp",
+            "characterImage": "assets/book3/070-character.webp",
+            "audio": "audio/words/book3-070.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-071",
+            "char": "城",
+            "index": 71,
+            "lesson": 9,
+            "picture": "assets/book3/071-picture.webp",
+            "quizPicture": "assets/book3/071-quiz.webp",
+            "characterImage": "assets/book3/071-character.webp",
+            "audio": "audio/words/book3-071.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-072",
+            "char": "广",
+            "index": 72,
+            "lesson": 9,
+            "picture": "assets/book3/072-picture.webp",
+            "quizPicture": "assets/book3/072-quiz.webp",
+            "characterImage": "assets/book3/072-character.webp",
+            "audio": "audio/words/book3-072.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 10,
+        "items": [
+          {
+            "id": "book3-073",
+            "char": "播",
+            "index": 73,
+            "lesson": 10,
+            "picture": "assets/book3/073-picture.webp",
+            "quizPicture": "assets/book3/073-quiz.webp",
+            "characterImage": "assets/book3/073-character.webp",
+            "audio": "audio/words/book3-073.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-074",
+            "char": "星",
+            "index": 74,
+            "lesson": 10,
+            "picture": "assets/book3/074-picture.webp",
+            "quizPicture": "assets/book3/074-quiz.webp",
+            "characterImage": "assets/book3/074-character.webp",
+            "audio": "audio/words/book3-074.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-075",
+            "char": "送",
+            "index": 75,
+            "lesson": 10,
+            "picture": "assets/book3/075-picture.webp",
+            "quizPicture": "assets/book3/075-quiz.webp",
+            "characterImage": "assets/book3/075-character.webp",
+            "audio": "audio/words/book3-075.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-076",
+            "char": "礼",
+            "index": 76,
+            "lesson": 10,
+            "picture": "assets/book3/076-picture.webp",
+            "quizPicture": "assets/book3/076-quiz.webp",
+            "characterImage": "assets/book3/076-character.webp",
+            "audio": "audio/words/book3-076.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-077",
+            "char": "敬",
+            "index": 77,
+            "lesson": 10,
+            "picture": "assets/book3/077-picture.webp",
+            "quizPicture": "assets/book3/077-quiz.webp",
+            "characterImage": "assets/book3/077-character.webp",
+            "audio": "audio/words/book3-077.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-078",
+            "char": "最",
+            "index": 78,
+            "lesson": 10,
+            "picture": "assets/book3/078-picture.webp",
+            "quizPicture": "assets/book3/078-quiz.webp",
+            "characterImage": "assets/book3/078-character.webp",
+            "audio": "audio/words/book3-078.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-079",
+            "char": "响",
+            "index": 79,
+            "lesson": 10,
+            "picture": "assets/book3/079-picture.webp",
+            "quizPicture": "assets/book3/079-quiz.webp",
+            "characterImage": "assets/book3/079-character.webp",
+            "audio": "audio/words/book3-079.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-080",
+            "char": "声",
+            "index": 80,
+            "lesson": 10,
+            "picture": "assets/book3/080-picture.webp",
+            "quizPicture": "assets/book3/080-quiz.webp",
+            "characterImage": "assets/book3/080-character.webp",
+            "audio": "audio/words/book3-080.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 11,
+        "items": [
+          {
+            "id": "book3-081",
+            "char": "祖",
+            "index": 81,
+            "lesson": 11,
+            "picture": "assets/book3/081-picture.webp",
+            "quizPicture": "assets/book3/081-quiz.webp",
+            "characterImage": "assets/book3/081-character.webp",
+            "audio": "audio/words/book3-081.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-082",
+            "char": "说",
+            "index": 82,
+            "lesson": 11,
+            "picture": "assets/book3/082-picture.webp",
+            "quizPicture": "assets/book3/082-quiz.webp",
+            "characterImage": "assets/book3/082-character.webp",
+            "audio": "audio/words/book3-082.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-083",
+            "char": "到",
+            "index": 83,
+            "lesson": 11,
+            "picture": "assets/book3/083-picture.webp",
+            "quizPicture": "assets/book3/083-quiz.webp",
+            "characterImage": "assets/book3/083-character.webp",
+            "audio": "audio/words/book3-083.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-084",
+            "char": "瞧",
+            "index": 84,
+            "lesson": 11,
+            "picture": "assets/book3/084-picture.webp",
+            "quizPicture": "assets/book3/084-quiz.webp",
+            "characterImage": "assets/book3/084-character.webp",
+            "audio": "audio/words/book3-084.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-085",
+            "char": "也",
+            "index": 85,
+            "lesson": 11,
+            "picture": "assets/book3/085-picture.webp",
+            "quizPicture": "assets/book3/085-quiz.webp",
+            "characterImage": "assets/book3/085-character.webp",
+            "audio": "audio/words/book3-085.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-086",
+            "char": "菜",
+            "index": 86,
+            "lesson": 11,
+            "picture": "assets/book3/086-picture.webp",
+            "quizPicture": "assets/book3/086-quiz.webp",
+            "characterImage": "assets/book3/086-character.webp",
+            "audio": "audio/words/book3-086.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-087",
+            "char": "额",
+            "index": 87,
+            "lesson": 11,
+            "picture": "assets/book3/087-picture.webp",
+            "quizPicture": "assets/book3/087-quiz.webp",
+            "characterImage": "assets/book3/087-character.webp",
+            "audio": "audio/words/book3-087.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-088",
+            "char": "卷",
+            "index": 88,
+            "lesson": 11,
+            "picture": "assets/book3/088-picture.webp",
+            "quizPicture": "assets/book3/088-quiz.webp",
+            "characterImage": "assets/book3/088-character.webp",
+            "audio": "audio/words/book3-088.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 12,
+        "items": [
+          {
+            "id": "book3-089",
+            "char": "紧",
+            "index": 89,
+            "lesson": 12,
+            "picture": "assets/book3/089-picture.webp",
+            "quizPicture": "assets/book3/089-quiz.webp",
+            "characterImage": "assets/book3/089-character.webp",
+            "audio": "audio/words/book3-089.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-090",
+            "char": "唇",
+            "index": 90,
+            "lesson": 12,
+            "picture": "assets/book3/090-picture.webp",
+            "quizPicture": "assets/book3/090-quiz.webp",
+            "characterImage": "assets/book3/090-character.webp",
+            "audio": "audio/words/book3-090.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-091",
+            "char": "饱",
+            "index": 91,
+            "lesson": 12,
+            "picture": "assets/book3/091-picture.webp",
+            "quizPicture": "assets/book3/091-quiz.webp",
+            "characterImage": "assets/book3/091-character.webp",
+            "audio": "audio/words/book3-091.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-092",
+            "char": "同",
+            "index": 92,
+            "lesson": 12,
+            "picture": "assets/book3/092-picture.webp",
+            "quizPicture": "assets/book3/092-quiz.webp",
+            "characterImage": "assets/book3/092-character.webp",
+            "audio": "audio/words/book3-092.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-093",
+            "char": "岁",
+            "index": 93,
+            "lesson": 12,
+            "picture": "assets/book3/093-picture.webp",
+            "quizPicture": "assets/book3/093-quiz.webp",
+            "characterImage": "assets/book3/093-character.webp",
+            "audio": "audio/words/book3-093.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-094",
+            "char": "拖",
+            "index": 94,
+            "lesson": 12,
+            "picture": "assets/book3/094-picture.webp",
+            "quizPicture": "assets/book3/094-quiz.webp",
+            "characterImage": "assets/book3/094-character.webp",
+            "audio": "audio/words/book3-094.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-095",
+            "char": "饿",
+            "index": 95,
+            "lesson": 12,
+            "picture": "assets/book3/095-picture.webp",
+            "quizPicture": "assets/book3/095-quiz.webp",
+            "characterImage": "assets/book3/095-character.webp",
+            "audio": "audio/words/book3-095.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-096",
+            "char": "擦",
+            "index": 96,
+            "lesson": 12,
+            "picture": "assets/book3/096-picture.webp",
+            "quizPicture": "assets/book3/096-quiz.webp",
+            "characterImage": "assets/book3/096-character.webp",
+            "audio": "audio/words/book3-096.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 13,
+        "items": [
+          {
+            "id": "book3-097",
+            "char": "汗",
+            "index": 97,
+            "lesson": 13,
+            "picture": "assets/book3/097-picture.webp",
+            "quizPicture": "assets/book3/097-quiz.webp",
+            "characterImage": "assets/book3/097-character.webp",
+            "audio": "audio/words/book3-097.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-098",
+            "char": "帮",
+            "index": 98,
+            "lesson": 13,
+            "picture": "assets/book3/098-picture.webp",
+            "quizPicture": "assets/book3/098-quiz.webp",
+            "characterImage": "assets/book3/098-character.webp",
+            "audio": "audio/words/book3-098.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-099",
+            "char": "助",
+            "index": 99,
+            "lesson": 13,
+            "picture": "assets/book3/099-picture.webp",
+            "quizPicture": "assets/book3/099-quiz.webp",
+            "characterImage": "assets/book3/099-character.webp",
+            "audio": "audio/words/book3-099.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-100",
+            "char": "千",
+            "index": 100,
+            "lesson": 13,
+            "picture": "assets/book3/100-picture.webp",
+            "quizPicture": "assets/book3/100-quiz.webp",
+            "characterImage": "assets/book3/100-character.webp",
+            "audio": "audio/words/book3-100.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-101",
+            "char": "净",
+            "index": 101,
+            "lesson": 13,
+            "picture": "assets/book3/101-picture.webp",
+            "quizPicture": "assets/book3/101-quiz.webp",
+            "characterImage": "assets/book3/101-character.webp",
+            "audio": "audio/words/book3-101.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-102",
+            "char": "明",
+            "index": 102,
+            "lesson": 13,
+            "picture": "assets/book3/102-picture.webp",
+            "quizPicture": "assets/book3/102-quiz.webp",
+            "characterImage": "assets/book3/102-character.webp",
+            "audio": "audio/words/book3-102.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-103",
+            "char": "聪",
+            "index": 103,
+            "lesson": 13,
+            "picture": "assets/book3/103-picture.webp",
+            "quizPicture": "assets/book3/103-quiz.webp",
+            "characterImage": "assets/book3/103-character.webp",
+            "audio": "audio/words/book3-103.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-104",
+            "char": "夸",
+            "index": 104,
+            "lesson": 13,
+            "picture": "assets/book3/104-picture.webp",
+            "quizPicture": "assets/book3/104-quiz.webp",
+            "characterImage": "assets/book3/104-character.webp",
+            "audio": "audio/words/book3-104.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 14,
+        "items": [
+          {
+            "id": "book3-105",
+            "char": "奖",
+            "index": 105,
+            "lesson": 14,
+            "picture": "assets/book3/105-picture.webp",
+            "quizPicture": "assets/book3/105-quiz.webp",
+            "characterImage": "assets/book3/105-character.webp",
+            "audio": "audio/words/book3-105.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-106",
+            "char": "自",
+            "index": 106,
+            "lesson": 14,
+            "picture": "assets/book3/106-picture.webp",
+            "quizPicture": "assets/book3/106-quiz.webp",
+            "characterImage": "assets/book3/106-character.webp",
+            "audio": "audio/words/book3-106.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-107",
+            "char": "己",
+            "index": 107,
+            "lesson": 14,
+            "picture": "assets/book3/107-picture.webp",
+            "quizPicture": "assets/book3/107-quiz.webp",
+            "characterImage": "assets/book3/107-character.webp",
+            "audio": "audio/words/book3-107.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-108",
+            "char": "年",
+            "index": 108,
+            "lesson": 14,
+            "picture": "assets/book3/108-picture.webp",
+            "quizPicture": "assets/book3/108-quiz.webp",
+            "characterImage": "assets/book3/108-character.webp",
+            "audio": "audio/words/book3-108.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-109",
+            "char": "龄",
+            "index": 109,
+            "lesson": 14,
+            "picture": "assets/book3/109-picture.webp",
+            "quizPicture": "assets/book3/109-quiz.webp",
+            "characterImage": "assets/book3/109-character.webp",
+            "audio": "audio/words/book3-109.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-110",
+            "char": "卡",
+            "index": 110,
+            "lesson": 14,
+            "picture": "assets/book3/110-picture.webp",
+            "quizPicture": "assets/book3/110-quiz.webp",
+            "characterImage": "assets/book3/110-character.webp",
+            "audio": "audio/words/book3-110.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-111",
+            "char": "贺",
+            "index": 111,
+            "lesson": 14,
+            "picture": "assets/book3/111-picture.webp",
+            "quizPicture": "assets/book3/111-quiz.webp",
+            "characterImage": "assets/book3/111-character.webp",
+            "audio": "audio/words/book3-111.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-112",
+            "char": "彩",
+            "index": 112,
+            "lesson": 14,
+            "picture": "assets/book3/112-picture.webp",
+            "quizPicture": "assets/book3/112-quiz.webp",
+            "characterImage": "assets/book3/112-character.webp",
+            "audio": "audio/words/book3-112.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 15,
+        "items": [
+          {
+            "id": "book3-113",
+            "char": "虹",
+            "index": 113,
+            "lesson": 15,
+            "picture": "assets/book3/113-picture.webp",
+            "quizPicture": "assets/book3/113-quiz.webp",
+            "characterImage": "assets/book3/113-character.webp",
+            "audio": "audio/words/book3-113.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-114",
+            "char": "慢",
+            "index": 114,
+            "lesson": 15,
+            "picture": "assets/book3/114-picture.webp",
+            "quizPicture": "assets/book3/114-quiz.webp",
+            "characterImage": "assets/book3/114-character.webp",
+            "audio": "audio/words/book3-114.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-115",
+            "char": "岭",
+            "index": 115,
+            "lesson": 15,
+            "picture": "assets/book3/115-picture.webp",
+            "quizPicture": "assets/book3/115-quiz.webp",
+            "characterImage": "assets/book3/115-character.webp",
+            "audio": "audio/words/book3-115.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-116",
+            "char": "荷",
+            "index": 116,
+            "lesson": 15,
+            "picture": "assets/book3/116-picture.webp",
+            "quizPicture": "assets/book3/116-quiz.webp",
+            "characterImage": "assets/book3/116-character.webp",
+            "audio": "audio/words/book3-116.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-117",
+            "char": "变",
+            "index": 117,
+            "lesson": 15,
+            "picture": "assets/book3/117-picture.webp",
+            "quizPicture": "assets/book3/117-quiz.webp",
+            "characterImage": "assets/book3/117-character.webp",
+            "audio": "audio/words/book3-117.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-118",
+            "char": "化",
+            "index": 118,
+            "lesson": 15,
+            "picture": "assets/book3/118-picture.webp",
+            "quizPicture": "assets/book3/118-quiz.webp",
+            "characterImage": "assets/book3/118-character.webp",
+            "audio": "audio/words/book3-118.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-119",
+            "char": "蝴",
+            "index": 119,
+            "lesson": 15,
+            "picture": "assets/book3/119-picture.webp",
+            "quizPicture": "assets/book3/119-quiz.webp",
+            "characterImage": "assets/book3/119-character.webp",
+            "audio": "audio/words/book3-119.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-120",
+            "char": "蝶",
+            "index": 120,
+            "lesson": 15,
+            "picture": "assets/book3/120-picture.webp",
+            "quizPicture": "assets/book3/120-quiz.webp",
+            "characterImage": "assets/book3/120-character.webp",
+            "audio": "audio/words/book3-120.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 16,
+        "items": [
+          {
+            "id": "book3-121",
+            "char": "舞",
+            "index": 121,
+            "lesson": 16,
+            "picture": "assets/book3/121-picture.webp",
+            "quizPicture": "assets/book3/121-quiz.webp",
+            "characterImage": "assets/book3/121-character.webp",
+            "audio": "audio/words/book3-121.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-122",
+            "char": "蹈",
+            "index": 122,
+            "lesson": 16,
+            "picture": "assets/book3/122-picture.webp",
+            "quizPicture": "assets/book3/122-quiz.webp",
+            "characterImage": "assets/book3/122-character.webp",
+            "audio": "audio/words/book3-122.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-123",
+            "char": "梦",
+            "index": 123,
+            "lesson": 16,
+            "picture": "assets/book3/123-picture.webp",
+            "quizPicture": "assets/book3/123-quiz.webp",
+            "characterImage": "assets/book3/123-character.webp",
+            "audio": "audio/words/book3-123.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-124",
+            "char": "乡",
+            "index": 124,
+            "lesson": 16,
+            "picture": "assets/book3/124-picture.webp",
+            "quizPicture": "assets/book3/124-quiz.webp",
+            "characterImage": "assets/book3/124-character.webp",
+            "audio": "audio/words/book3-124.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-125",
+            "char": "吞",
+            "index": 125,
+            "lesson": 16,
+            "picture": "assets/book3/125-picture.webp",
+            "quizPicture": "assets/book3/125-quiz.webp",
+            "characterImage": "assets/book3/125-character.webp",
+            "audio": "audio/words/book3-125.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-126",
+            "char": "湖",
+            "index": 126,
+            "lesson": 16,
+            "picture": "assets/book3/126-picture.webp",
+            "quizPicture": "assets/book3/126-quiz.webp",
+            "characterImage": "assets/book3/126-character.webp",
+            "audio": "audio/words/book3-126.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-127",
+            "char": "颜",
+            "index": 127,
+            "lesson": 16,
+            "picture": "assets/book3/127-picture.webp",
+            "quizPicture": "assets/book3/127-quiz.webp",
+            "characterImage": "assets/book3/127-character.webp",
+            "audio": "audio/words/book3-127.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-128",
+            "char": "再",
+            "index": 128,
+            "lesson": 16,
+            "picture": "assets/book3/128-picture.webp",
+            "quizPicture": "assets/book3/128-quiz.webp",
+            "characterImage": "assets/book3/128-character.webp",
+            "audio": "audio/words/book3-128.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 17,
+        "items": [
+          {
+            "id": "book3-129",
+            "char": "洗",
+            "index": 129,
+            "lesson": 17,
+            "picture": "assets/book3/129-picture.webp",
+            "quizPicture": "assets/book3/129-quiz.webp",
+            "characterImage": "assets/book3/129-character.webp",
+            "audio": "audio/words/book3-129.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-130",
+            "char": "谁",
+            "index": 130,
+            "lesson": 17,
+            "picture": "assets/book3/130-picture.webp",
+            "quizPicture": "assets/book3/130-quiz.webp",
+            "characterImage": "assets/book3/130-character.webp",
+            "audio": "audio/words/book3-130.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-131",
+            "char": "呢",
+            "index": 131,
+            "lesson": 17,
+            "picture": "assets/book3/131-picture.webp",
+            "quizPicture": "assets/book3/131-quiz.webp",
+            "characterImage": "assets/book3/131-character.webp",
+            "audio": "audio/words/book3-131.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-132",
+            "char": "比",
+            "index": 132,
+            "lesson": 17,
+            "picture": "assets/book3/132-picture.webp",
+            "quizPicture": "assets/book3/132-quiz.webp",
+            "characterImage": "assets/book3/132-character.webp",
+            "audio": "audio/words/book3-132.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-133",
+            "char": "赛",
+            "index": 133,
+            "lesson": 17,
+            "picture": "assets/book3/133-picture.webp",
+            "quizPicture": "assets/book3/133-quiz.webp",
+            "characterImage": "assets/book3/133-character.webp",
+            "audio": "audio/words/book3-133.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-134",
+            "char": "对",
+            "index": 134,
+            "lesson": 17,
+            "picture": "assets/book3/134-picture.webp",
+            "quizPicture": "assets/book3/134-quiz.webp",
+            "characterImage": "assets/book3/134-character.webp",
+            "audio": "audio/words/book3-134.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-135",
+            "char": "币",
+            "index": 135,
+            "lesson": 17,
+            "picture": "assets/book3/135-picture.webp",
+            "quizPicture": "assets/book3/135-quiz.webp",
+            "characterImage": "assets/book3/135-character.webp",
+            "audio": "audio/words/book3-135.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-136",
+            "char": "节",
+            "index": 136,
+            "lesson": 17,
+            "picture": "assets/book3/136-picture.webp",
+            "quizPicture": "assets/book3/136-quiz.webp",
+            "characterImage": "assets/book3/136-character.webp",
+            "audio": "audio/words/book3-136.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 18,
+        "items": [
+          {
+            "id": "book3-137",
+            "char": "季",
+            "index": 137,
+            "lesson": 18,
+            "picture": "assets/book3/137-picture.webp",
+            "quizPicture": "assets/book3/137-quiz.webp",
+            "characterImage": "assets/book3/137-character.webp",
+            "audio": "audio/words/book3-137.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-138",
+            "char": "春",
+            "index": 138,
+            "lesson": 18,
+            "picture": "assets/book3/138-picture.webp",
+            "quizPicture": "assets/book3/138-quiz.webp",
+            "characterImage": "assets/book3/138-character.webp",
+            "audio": "audio/words/book3-138.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-139",
+            "char": "夏",
+            "index": 139,
+            "lesson": 18,
+            "picture": "assets/book3/139-picture.webp",
+            "quizPicture": "assets/book3/139-quiz.webp",
+            "characterImage": "assets/book3/139-character.webp",
+            "audio": "audio/words/book3-139.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-140",
+            "char": "秋",
+            "index": 140,
+            "lesson": 18,
+            "picture": "assets/book3/140-picture.webp",
+            "quizPicture": "assets/book3/140-quiz.webp",
+            "characterImage": "assets/book3/140-character.webp",
+            "audio": "audio/words/book3-140.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-141",
+            "char": "枯",
+            "index": 141,
+            "lesson": 18,
+            "picture": "assets/book3/141-picture.webp",
+            "quizPicture": "assets/book3/141-quiz.webp",
+            "characterImage": "assets/book3/141-character.webp",
+            "audio": "audio/words/book3-141.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-142",
+            "char": "笔",
+            "index": 142,
+            "lesson": 18,
+            "picture": "assets/book3/142-picture.webp",
+            "quizPicture": "assets/book3/142-quiz.webp",
+            "characterImage": "assets/book3/142-character.webp",
+            "audio": "audio/words/book3-142.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-143",
+            "char": "烈",
+            "index": 143,
+            "lesson": 18,
+            "picture": "assets/book3/143-picture.webp",
+            "quizPicture": "assets/book3/143-quiz.webp",
+            "characterImage": "assets/book3/143-character.webp",
+            "audio": "audio/words/book3-143.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-144",
+            "char": "遮",
+            "index": 144,
+            "lesson": 18,
+            "picture": "assets/book3/144-picture.webp",
+            "quizPicture": "assets/book3/144-quiz.webp",
+            "characterImage": "assets/book3/144-character.webp",
+            "audio": "audio/words/book3-144.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 19,
+        "items": [
+          {
+            "id": "book3-145",
+            "char": "挡",
+            "index": 145,
+            "lesson": 19,
+            "picture": "assets/book3/145-picture.webp",
+            "quizPicture": "assets/book3/145-quiz.webp",
+            "characterImage": "assets/book3/145-character.webp",
+            "audio": "audio/words/book3-145.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-146",
+            "char": "撑",
+            "index": 146,
+            "lesson": 19,
+            "picture": "assets/book3/146-picture.webp",
+            "quizPicture": "assets/book3/146-quiz.webp",
+            "characterImage": "assets/book3/146-character.webp",
+            "audio": "audio/words/book3-146.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-147",
+            "char": "落",
+            "index": 147,
+            "lesson": 19,
+            "picture": "assets/book3/147-picture.webp",
+            "quizPicture": "assets/book3/147-quiz.webp",
+            "characterImage": "assets/book3/147-character.webp",
+            "audio": "audio/words/book3-147.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-148",
+            "char": "降",
+            "index": 148,
+            "lesson": 19,
+            "picture": "assets/book3/148-picture.webp",
+            "quizPicture": "assets/book3/148-quiz.webp",
+            "characterImage": "assets/book3/148-character.webp",
+            "audio": "audio/words/book3-148.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-149",
+            "char": "秋",
+            "index": 149,
+            "lesson": 19,
+            "picture": "assets/book3/149-picture.webp",
+            "quizPicture": "assets/book3/149-quiz.webp",
+            "characterImage": "assets/book3/149-character.webp",
+            "audio": "audio/words/book3-149.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-150",
+            "char": "密",
+            "index": 150,
+            "lesson": 19,
+            "picture": "assets/book3/150-picture.webp",
+            "quizPicture": "assets/book3/150-quiz.webp",
+            "characterImage": "assets/book3/150-character.webp",
+            "audio": "audio/words/book3-150.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-151",
+            "char": "取",
+            "index": 151,
+            "lesson": 19,
+            "picture": "assets/book3/151-picture.webp",
+            "quizPicture": "assets/book3/151-quiz.webp",
+            "characterImage": "assets/book3/151-character.webp",
+            "audio": "audio/words/book3-151.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-152",
+            "char": "暖",
+            "index": 152,
+            "lesson": 19,
+            "picture": "assets/book3/152-picture.webp",
+            "quizPicture": "assets/book3/152-quiz.webp",
+            "characterImage": "assets/book3/152-character.webp",
+            "audio": "audio/words/book3-152.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 20,
+        "items": [
+          {
+            "id": "book3-153",
+            "char": "泥",
+            "index": 153,
+            "lesson": 20,
+            "picture": "assets/book3/153-picture.webp",
+            "quizPicture": "assets/book3/153-quiz.webp",
+            "characterImage": "assets/book3/153-character.webp",
+            "audio": "audio/words/book3-153.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-154",
+            "char": "堆",
+            "index": 154,
+            "lesson": 20,
+            "picture": "assets/book3/154-picture.webp",
+            "quizPicture": "assets/book3/154-quiz.webp",
+            "characterImage": "assets/book3/154-character.webp",
+            "audio": "audio/words/book3-154.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-155",
+            "char": "从",
+            "index": 155,
+            "lesson": 20,
+            "picture": "assets/book3/155-picture.webp",
+            "quizPicture": "assets/book3/155-quiz.webp",
+            "characterImage": "assets/book3/155-character.webp",
+            "audio": "audio/words/book3-155.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-156",
+            "char": "滚",
+            "index": 156,
+            "lesson": 20,
+            "picture": "assets/book3/156-picture.webp",
+            "quizPicture": "assets/book3/156-quiz.webp",
+            "characterImage": "assets/book3/156-character.webp",
+            "audio": "audio/words/book3-156.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-157",
+            "char": "玻",
+            "index": 157,
+            "lesson": 20,
+            "picture": "assets/book3/157-picture.webp",
+            "quizPicture": "assets/book3/157-quiz.webp",
+            "characterImage": "assets/book3/157-character.webp",
+            "audio": "audio/words/book3-157.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-158",
+            "char": "璃",
+            "index": 158,
+            "lesson": 20,
+            "picture": "assets/book3/158-picture.webp",
+            "quizPicture": "assets/book3/158-quiz.webp",
+            "characterImage": "assets/book3/158-character.webp",
+            "audio": "audio/words/book3-158.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-159",
+            "char": "常",
+            "index": 159,
+            "lesson": 20,
+            "picture": "assets/book3/159-picture.webp",
+            "quizPicture": "assets/book3/159-quiz.webp",
+            "characterImage": "assets/book3/159-character.webp",
+            "audio": "audio/words/book3-159.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-160",
+            "char": "非",
+            "index": 160,
+            "lesson": 20,
+            "picture": "assets/book3/160-picture.webp",
+            "quizPicture": "assets/book3/160-quiz.webp",
+            "characterImage": "assets/book3/160-character.webp",
+            "audio": "audio/words/book3-160.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 21,
+        "items": [
+          {
+            "id": "book3-161",
+            "char": "鸭",
+            "index": 161,
+            "lesson": 21,
+            "picture": "assets/book3/161-picture.webp",
+            "quizPicture": "assets/book3/161-quiz.webp",
+            "characterImage": "assets/book3/161-character.webp",
+            "audio": "audio/words/book3-161.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-162",
+            "char": "等",
+            "index": 162,
+            "lesson": 21,
+            "picture": "assets/book3/162-picture.webp",
+            "quizPicture": "assets/book3/162-quiz.webp",
+            "characterImage": "assets/book3/162-character.webp",
+            "audio": "audio/words/book3-162.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-163",
+            "char": "于",
+            "index": 163,
+            "lesson": 21,
+            "picture": "assets/book3/163-picture.webp",
+            "quizPicture": "assets/book3/163-quiz.webp",
+            "characterImage": "assets/book3/163-character.webp",
+            "audio": "audio/words/book3-163.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-164",
+            "char": "带",
+            "index": 164,
+            "lesson": 21,
+            "picture": "assets/book3/164-picture.webp",
+            "quizPicture": "assets/book3/164-quiz.webp",
+            "characterImage": "assets/book3/164-character.webp",
+            "audio": "audio/words/book3-164.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-165",
+            "char": "厅",
+            "index": 165,
+            "lesson": 21,
+            "picture": "assets/book3/165-picture.webp",
+            "quizPicture": "assets/book3/165-quiz.webp",
+            "characterImage": "assets/book3/165-character.webp",
+            "audio": "audio/words/book3-165.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-166",
+            "char": "江",
+            "index": 166,
+            "lesson": 21,
+            "picture": "assets/book3/166-picture.webp",
+            "quizPicture": "assets/book3/166-quiz.webp",
+            "characterImage": "assets/book3/166-character.webp",
+            "audio": "audio/words/book3-166.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-167",
+            "char": "终",
+            "index": 167,
+            "lesson": 21,
+            "picture": "assets/book3/167-picture.webp",
+            "quizPicture": "assets/book3/167-quiz.webp",
+            "characterImage": "assets/book3/167-character.webp",
+            "audio": "audio/words/book3-167.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-168",
+            "char": "猫",
+            "index": 168,
+            "lesson": 21,
+            "picture": "assets/book3/168-picture.webp",
+            "quizPicture": "assets/book3/168-quiz.webp",
+            "characterImage": "assets/book3/168-character.webp",
+            "audio": "audio/words/book3-168.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 22,
+        "items": [
+          {
+            "id": "book3-169",
+            "char": "瓜",
+            "index": 169,
+            "lesson": 22,
+            "picture": "assets/book3/169-picture.webp",
+            "quizPicture": "assets/book3/169-quiz.webp",
+            "characterImage": "assets/book3/169-character.webp",
+            "audio": "audio/words/book3-169.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-170",
+            "char": "买",
+            "index": 170,
+            "lesson": 22,
+            "picture": "assets/book3/170-picture.webp",
+            "quizPicture": "assets/book3/170-quiz.webp",
+            "characterImage": "assets/book3/170-character.webp",
+            "audio": "audio/words/book3-170.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-171",
+            "char": "尺",
+            "index": 171,
+            "lesson": 22,
+            "picture": "assets/book3/171-picture.webp",
+            "quizPicture": "assets/book3/171-quiz.webp",
+            "characterImage": "assets/book3/171-character.webp",
+            "audio": "audio/words/book3-171.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-172",
+            "char": "捉",
+            "index": 172,
+            "lesson": 22,
+            "picture": "assets/book3/172-picture.webp",
+            "quizPicture": "assets/book3/172-quiz.webp",
+            "characterImage": "assets/book3/172-character.webp",
+            "audio": "audio/words/book3-172.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-173",
+            "char": "虾",
+            "index": 173,
+            "lesson": 22,
+            "picture": "assets/book3/173-picture.webp",
+            "quizPicture": "assets/book3/173-quiz.webp",
+            "characterImage": "assets/book3/173-character.webp",
+            "audio": "audio/words/book3-173.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-174",
+            "char": "猴",
+            "index": 174,
+            "lesson": 22,
+            "picture": "assets/book3/174-picture.webp",
+            "quizPicture": "assets/book3/174-quiz.webp",
+            "characterImage": "assets/book3/174-character.webp",
+            "audio": "audio/words/book3-174.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-175",
+            "char": "戏",
+            "index": 175,
+            "lesson": 22,
+            "picture": "assets/book3/175-picture.webp",
+            "quizPicture": "assets/book3/175-quiz.webp",
+            "characterImage": "assets/book3/175-character.webp",
+            "audio": "audio/words/book3-175.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-176",
+            "char": "作",
+            "index": 176,
+            "lesson": 22,
+            "picture": "assets/book3/176-picture.webp",
+            "quizPicture": "assets/book3/176-quiz.webp",
+            "characterImage": "assets/book3/176-character.webp",
+            "audio": "audio/words/book3-176.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 23,
+        "items": [
+          {
+            "id": "book3-177",
+            "char": "业",
+            "index": 177,
+            "lesson": 23,
+            "picture": "assets/book3/177-picture.webp",
+            "quizPicture": "assets/book3/177-quiz.webp",
+            "characterImage": "assets/book3/177-character.webp",
+            "audio": "audio/words/book3-177.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-178",
+            "char": "渴",
+            "index": 178,
+            "lesson": 23,
+            "picture": "assets/book3/178-picture.webp",
+            "quizPicture": "assets/book3/178-quiz.webp",
+            "characterImage": "assets/book3/178-character.webp",
+            "audio": "audio/words/book3-178.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-179",
+            "char": "检",
+            "index": 179,
+            "lesson": 23,
+            "picture": "assets/book3/179-picture.webp",
+            "quizPicture": "assets/book3/179-quiz.webp",
+            "characterImage": "assets/book3/179-character.webp",
+            "audio": "audio/words/book3-179.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-180",
+            "char": "纸",
+            "index": 180,
+            "lesson": 23,
+            "picture": "assets/book3/180-picture.webp",
+            "quizPicture": "assets/book3/180-quiz.webp",
+            "characterImage": "assets/book3/180-character.webp",
+            "audio": "audio/words/book3-180.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-181",
+            "char": "童",
+            "index": 181,
+            "lesson": 23,
+            "picture": "assets/book3/181-picture.webp",
+            "quizPicture": "assets/book3/181-quiz.webp",
+            "characterImage": "assets/book3/181-character.webp",
+            "audio": "audio/words/book3-181.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-182",
+            "char": "呼",
+            "index": 182,
+            "lesson": 23,
+            "picture": "assets/book3/182-picture.webp",
+            "quizPicture": "assets/book3/182-quiz.webp",
+            "characterImage": "assets/book3/182-character.webp",
+            "audio": "audio/words/book3-182.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-183",
+            "char": "吱",
+            "index": 183,
+            "lesson": 23,
+            "picture": "assets/book3/183-picture.webp",
+            "quizPicture": "assets/book3/183-quiz.webp",
+            "characterImage": "assets/book3/183-character.webp",
+            "audio": "audio/words/book3-183.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-184",
+            "char": "瓦",
+            "index": 184,
+            "lesson": 23,
+            "picture": "assets/book3/184-picture.webp",
+            "quizPicture": "assets/book3/184-quiz.webp",
+            "characterImage": "assets/book3/184-character.webp",
+            "audio": "audio/words/book3-184.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 24,
+        "items": [
+          {
+            "id": "book3-185",
+            "char": "装",
+            "index": 185,
+            "lesson": 24,
+            "picture": "assets/book3/185-picture.webp",
+            "quizPicture": "assets/book3/185-quiz.webp",
+            "characterImage": "assets/book3/185-character.webp",
+            "audio": "audio/words/book3-185.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-186",
+            "char": "船",
+            "index": 186,
+            "lesson": 24,
+            "picture": "assets/book3/186-picture.webp",
+            "quizPicture": "assets/book3/186-quiz.webp",
+            "characterImage": "assets/book3/186-character.webp",
+            "audio": "audio/words/book3-186.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-187",
+            "char": "划",
+            "index": 187,
+            "lesson": 24,
+            "picture": "assets/book3/187-picture.webp",
+            "quizPicture": "assets/book3/187-quiz.webp",
+            "characterImage": "assets/book3/187-character.webp",
+            "audio": "audio/words/book3-187.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-188",
+            "char": "放",
+            "index": 188,
+            "lesson": 24,
+            "picture": "assets/book3/188-picture.webp",
+            "quizPicture": "assets/book3/188-quiz.webp",
+            "characterImage": "assets/book3/188-character.webp",
+            "audio": "audio/words/book3-188.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-189",
+            "char": "轻",
+            "index": 189,
+            "lesson": 24,
+            "picture": "assets/book3/189-picture.webp",
+            "quizPicture": "assets/book3/189-quiz.webp",
+            "characterImage": "assets/book3/189-character.webp",
+            "audio": "audio/words/book3-189.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-190",
+            "char": "松",
+            "index": 190,
+            "lesson": 24,
+            "picture": "assets/book3/190-picture.webp",
+            "quizPicture": "assets/book3/190-quiz.webp",
+            "characterImage": "assets/book3/190-character.webp",
+            "audio": "audio/words/book3-190.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-191",
+            "char": "挂",
+            "index": 191,
+            "lesson": 24,
+            "picture": "assets/book3/191-picture.webp",
+            "quizPicture": "assets/book3/191-quiz.webp",
+            "characterImage": "assets/book3/191-character.webp",
+            "audio": "audio/words/book3-191.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-192",
+            "char": "钩",
+            "index": 192,
+            "lesson": 24,
+            "picture": "assets/book3/192-picture.webp",
+            "quizPicture": "assets/book3/192-quiz.webp",
+            "characterImage": "assets/book3/192-character.webp",
+            "audio": "audio/words/book3-192.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 25,
+        "items": [
+          {
+            "id": "book3-193",
+            "char": "晴",
+            "index": 193,
+            "lesson": 25,
+            "picture": "assets/book3/193-picture.webp",
+            "quizPicture": "assets/book3/193-quiz.webp",
+            "characterImage": "assets/book3/193-character.webp",
+            "audio": "audio/words/book3-193.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-194",
+            "char": "朗",
+            "index": 194,
+            "lesson": 25,
+            "picture": "assets/book3/194-picture.webp",
+            "quizPicture": "assets/book3/194-quiz.webp",
+            "characterImage": "assets/book3/194-character.webp",
+            "audio": "audio/words/book3-194.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-195",
+            "char": "间",
+            "index": 195,
+            "lesson": 25,
+            "picture": "assets/book3/195-picture.webp",
+            "quizPicture": "assets/book3/195-quiz.webp",
+            "characterImage": "assets/book3/195-character.webp",
+            "audio": "audio/words/book3-195.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-196",
+            "char": "时",
+            "index": 196,
+            "lesson": 25,
+            "picture": "assets/book3/196-picture.webp",
+            "quizPicture": "assets/book3/196-quiz.webp",
+            "characterImage": "assets/book3/196-character.webp",
+            "audio": "audio/words/book3-196.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-197",
+            "char": "候",
+            "index": 197,
+            "lesson": 25,
+            "picture": "assets/book3/197-picture.webp",
+            "quizPicture": "assets/book3/197-quiz.webp",
+            "characterImage": "assets/book3/197-character.webp",
+            "audio": "audio/words/book3-197.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-198",
+            "char": "岸",
+            "index": 198,
+            "lesson": 25,
+            "picture": "assets/book3/198-picture.webp",
+            "quizPicture": "assets/book3/198-quiz.webp",
+            "characterImage": "assets/book3/198-character.webp",
+            "audio": "audio/words/book3-198.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-199",
+            "char": "可",
+            "index": 199,
+            "lesson": 25,
+            "picture": "assets/book3/199-picture.webp",
+            "quizPicture": "assets/book3/199-quiz.webp",
+            "characterImage": "assets/book3/199-character.webp",
+            "audio": "audio/words/book3-199.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-200",
+            "char": "以",
+            "index": 200,
+            "lesson": 25,
+            "picture": "assets/book3/200-picture.webp",
+            "quizPicture": "assets/book3/200-quiz.webp",
+            "characterImage": "assets/book3/200-character.webp",
+            "audio": "audio/words/book3-200.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 26,
+        "items": [
+          {
+            "id": "book3-201",
+            "char": "感",
+            "index": 201,
+            "lesson": 26,
+            "picture": "assets/book3/201-picture.webp",
+            "quizPicture": "assets/book3/201-quiz.webp",
+            "characterImage": "assets/book3/201-character.webp",
+            "audio": "audio/words/book3-201.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-202",
+            "char": "谢",
+            "index": 202,
+            "lesson": 26,
+            "picture": "assets/book3/202-picture.webp",
+            "quizPicture": "assets/book3/202-quiz.webp",
+            "characterImage": "assets/book3/202-character.webp",
+            "audio": "audio/words/book3-202.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-203",
+            "char": "喜",
+            "index": 203,
+            "lesson": 26,
+            "picture": "assets/book3/203-picture.webp",
+            "quizPicture": "assets/book3/203-quiz.webp",
+            "characterImage": "assets/book3/203-character.webp",
+            "audio": "audio/words/book3-203.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-204",
+            "char": "欢",
+            "index": 204,
+            "lesson": 26,
+            "picture": "assets/book3/204-picture.webp",
+            "quizPicture": "assets/book3/204-quiz.webp",
+            "characterImage": "assets/book3/204-character.webp",
+            "audio": "audio/words/book3-204.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-205",
+            "char": "两",
+            "index": 205,
+            "lesson": 26,
+            "picture": "assets/book3/205-picture.webp",
+            "quizPicture": "assets/book3/205-quiz.webp",
+            "characterImage": "assets/book3/205-character.webp",
+            "audio": "audio/words/book3-205.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-206",
+            "char": "群",
+            "index": 206,
+            "lesson": 26,
+            "picture": "assets/book3/206-picture.webp",
+            "quizPicture": "assets/book3/206-quiz.webp",
+            "characterImage": "assets/book3/206-character.webp",
+            "audio": "audio/words/book3-206.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-207",
+            "char": "尾",
+            "index": 207,
+            "lesson": 26,
+            "picture": "assets/book3/207-picture.webp",
+            "quizPicture": "assets/book3/207-quiz.webp",
+            "characterImage": "assets/book3/207-character.webp",
+            "audio": "audio/words/book3-207.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-208",
+            "char": "兔",
+            "index": 208,
+            "lesson": 26,
+            "picture": "assets/book3/208-picture.webp",
+            "quizPicture": "assets/book3/208-quiz.webp",
+            "characterImage": "assets/book3/208-character.webp",
+            "audio": "audio/words/book3-208.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 27,
+        "items": [
+          {
+            "id": "book3-209",
+            "char": "养",
+            "index": 209,
+            "lesson": 27,
+            "picture": "assets/book3/209-picture.webp",
+            "quizPicture": "assets/book3/209-quiz.webp",
+            "characterImage": "assets/book3/209-character.webp",
+            "audio": "audio/words/book3-209.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-210",
+            "char": "怕",
+            "index": 210,
+            "lesson": 27,
+            "picture": "assets/book3/210-picture.webp",
+            "quizPicture": "assets/book3/210-quiz.webp",
+            "characterImage": "assets/book3/210-character.webp",
+            "audio": "audio/words/book3-210.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-211",
+            "char": "狗",
+            "index": 211,
+            "lesson": 27,
+            "picture": "assets/book3/211-picture.webp",
+            "quizPicture": "assets/book3/211-quiz.webp",
+            "characterImage": "assets/book3/211-character.webp",
+            "audio": "audio/words/book3-211.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-212",
+            "char": "猎",
+            "index": 212,
+            "lesson": 27,
+            "picture": "assets/book3/212-picture.webp",
+            "quizPicture": "assets/book3/212-quiz.webp",
+            "characterImage": "assets/book3/212-character.webp",
+            "audio": "audio/words/book3-212.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-213",
+            "char": "咬",
+            "index": 213,
+            "lesson": 27,
+            "picture": "assets/book3/213-picture.webp",
+            "quizPicture": "assets/book3/213-quiz.webp",
+            "characterImage": "assets/book3/213-character.webp",
+            "audio": "audio/words/book3-213.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-214",
+            "char": "梦",
+            "index": 214,
+            "lesson": 27,
+            "picture": "assets/book3/214-picture.webp",
+            "quizPicture": "assets/book3/214-quiz.webp",
+            "characterImage": "assets/book3/214-character.webp",
+            "audio": "audio/words/book3-214.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-215",
+            "char": "卜",
+            "index": 215,
+            "lesson": 27,
+            "picture": "assets/book3/215-picture.webp",
+            "quizPicture": "assets/book3/215-quiz.webp",
+            "characterImage": "assets/book3/215-character.webp",
+            "audio": "audio/words/book3-215.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-216",
+            "char": "喂",
+            "index": 216,
+            "lesson": 27,
+            "picture": "assets/book3/216-picture.webp",
+            "quizPicture": "assets/book3/216-quiz.webp",
+            "characterImage": "assets/book3/216-character.webp",
+            "audio": "audio/words/book3-216.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 28,
+        "items": [
+          {
+            "id": "book3-217",
+            "char": "猪",
+            "index": 217,
+            "lesson": 28,
+            "picture": "assets/book3/217-picture.webp",
+            "quizPicture": "assets/book3/217-quiz.webp",
+            "characterImage": "assets/book3/217-character.webp",
+            "audio": "audio/words/book3-217.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-218",
+            "char": "凉",
+            "index": 218,
+            "lesson": 28,
+            "picture": "assets/book3/218-picture.webp",
+            "quizPicture": "assets/book3/218-quiz.webp",
+            "characterImage": "assets/book3/218-character.webp",
+            "audio": "audio/words/book3-218.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-219",
+            "char": "慌",
+            "index": 219,
+            "lesson": 28,
+            "picture": "assets/book3/219-picture.webp",
+            "quizPicture": "assets/book3/219-quiz.webp",
+            "characterImage": "assets/book3/219-character.webp",
+            "audio": "audio/words/book3-219.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-220",
+            "char": "每",
+            "index": 220,
+            "lesson": 28,
+            "picture": "assets/book3/220-picture.webp",
+            "quizPicture": "assets/book3/220-quiz.webp",
+            "characterImage": "assets/book3/220-character.webp",
+            "audio": "audio/words/book3-220.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-221",
+            "char": "次",
+            "index": 221,
+            "lesson": 28,
+            "picture": "assets/book3/221-picture.webp",
+            "quizPicture": "assets/book3/221-quiz.webp",
+            "characterImage": "assets/book3/221-character.webp",
+            "audio": "audio/words/book3-221.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-222",
+            "char": "屋",
+            "index": 222,
+            "lesson": 28,
+            "picture": "assets/book3/222-picture.webp",
+            "quizPicture": "assets/book3/222-quiz.webp",
+            "characterImage": "assets/book3/222-character.webp",
+            "audio": "audio/words/book3-222.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-223",
+            "char": "为",
+            "index": 223,
+            "lesson": 28,
+            "picture": "assets/book3/223-picture.webp",
+            "quizPicture": "assets/book3/223-quiz.webp",
+            "characterImage": "assets/book3/223-character.webp",
+            "audio": "audio/words/book3-223.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-224",
+            "char": "因",
+            "index": 224,
+            "lesson": 28,
+            "picture": "assets/book3/224-picture.webp",
+            "quizPicture": "assets/book3/224-quiz.webp",
+            "characterImage": "assets/book3/224-character.webp",
+            "audio": "audio/words/book3-224.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 29,
+        "items": [
+          {
+            "id": "book3-225",
+            "char": "公",
+            "index": 225,
+            "lesson": 29,
+            "picture": "assets/book3/225-picture.webp",
+            "quizPicture": "assets/book3/225-quiz.webp",
+            "characterImage": "assets/book3/225-character.webp",
+            "audio": "audio/words/book3-225.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-226",
+            "char": "主",
+            "index": 226,
+            "lesson": 29,
+            "picture": "assets/book3/226-picture.webp",
+            "quizPicture": "assets/book3/226-quiz.webp",
+            "characterImage": "assets/book3/226-character.webp",
+            "audio": "audio/words/book3-226.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-227",
+            "char": "其",
+            "index": 227,
+            "lesson": 29,
+            "picture": "assets/book3/227-picture.webp",
+            "quizPicture": "assets/book3/227-quiz.webp",
+            "characterImage": "assets/book3/227-character.webp",
+            "audio": "audio/words/book3-227.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-228",
+            "char": "它",
+            "index": 228,
+            "lesson": 29,
+            "picture": "assets/book3/228-picture.webp",
+            "quizPicture": "assets/book3/228-quiz.webp",
+            "characterImage": "assets/book3/228-character.webp",
+            "audio": "audio/words/book3-228.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-229",
+            "char": "运",
+            "index": 229,
+            "lesson": 29,
+            "picture": "assets/book3/229-picture.webp",
+            "quizPicture": "assets/book3/229-quiz.webp",
+            "characterImage": "assets/book3/229-character.webp",
+            "audio": "audio/words/book3-229.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-230",
+            "char": "动",
+            "index": 230,
+            "lesson": 29,
+            "picture": "assets/book3/230-picture.webp",
+            "quizPicture": "assets/book3/230-quiz.webp",
+            "characterImage": "assets/book3/230-character.webp",
+            "audio": "audio/words/book3-230.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-231",
+            "char": "激",
+            "index": 231,
+            "lesson": 29,
+            "picture": "assets/book3/231-picture.webp",
+            "quizPicture": "assets/book3/231-quiz.webp",
+            "characterImage": "assets/book3/231-character.webp",
+            "audio": "audio/words/book3-231.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-232",
+            "char": "选",
+            "index": 232,
+            "lesson": 29,
+            "picture": "assets/book3/232-picture.webp",
+            "quizPicture": "assets/book3/232-quiz.webp",
+            "characterImage": "assets/book3/232-character.webp",
+            "audio": "audio/words/book3-232.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 30,
+        "items": [
+          {
+            "id": "book3-233",
+            "char": "择",
+            "index": 233,
+            "lesson": 30,
+            "picture": "assets/book3/233-picture.webp",
+            "quizPicture": "assets/book3/233-quiz.webp",
+            "characterImage": "assets/book3/233-character.webp",
+            "audio": "audio/words/book3-233.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-234",
+            "char": "微",
+            "index": 234,
+            "lesson": 30,
+            "picture": "assets/book3/234-picture.webp",
+            "quizPicture": "assets/book3/234-quiz.webp",
+            "characterImage": "assets/book3/234-character.webp",
+            "audio": "audio/words/book3-234.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-235",
+            "char": "如",
+            "index": 235,
+            "lesson": 30,
+            "picture": "assets/book3/235-picture.webp",
+            "quizPicture": "assets/book3/235-quiz.webp",
+            "characterImage": "assets/book3/235-character.webp",
+            "audio": "audio/words/book3-235.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-236",
+            "char": "熊",
+            "index": 236,
+            "lesson": 30,
+            "picture": "assets/book3/236-picture.webp",
+            "quizPicture": "assets/book3/236-quiz.webp",
+            "characterImage": "assets/book3/236-character.webp",
+            "audio": "audio/words/book3-236.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-237",
+            "char": "加",
+            "index": 237,
+            "lesson": 30,
+            "picture": "assets/book3/237-picture.webp",
+            "quizPicture": "assets/book3/237-quiz.webp",
+            "characterImage": "assets/book3/237-character.webp",
+            "audio": "audio/words/book3-237.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-238",
+            "char": "参",
+            "index": 238,
+            "lesson": 30,
+            "picture": "assets/book3/238-picture.webp",
+            "quizPicture": "assets/book3/238-quiz.webp",
+            "characterImage": "assets/book3/238-character.webp",
+            "audio": "audio/words/book3-238.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-239",
+            "char": "刺",
+            "index": 239,
+            "lesson": 30,
+            "picture": "assets/book3/239-picture.webp",
+            "quizPicture": "assets/book3/239-quiz.webp",
+            "characterImage": "assets/book3/239-character.webp",
+            "audio": "audio/words/book3-239.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-240",
+            "char": "猬",
+            "index": 240,
+            "lesson": 30,
+            "picture": "assets/book3/240-picture.webp",
+            "quizPicture": "assets/book3/240-quiz.webp",
+            "characterImage": "assets/book3/240-character.webp",
+            "audio": "audio/words/book3-240.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 31,
+        "items": [
+          {
+            "id": "book3-241",
+            "char": "辣",
+            "index": 241,
+            "lesson": 31,
+            "picture": "assets/book3/241-picture.webp",
+            "quizPicture": "assets/book3/241-quiz.webp",
+            "characterImage": "assets/book3/241-character.webp",
+            "audio": "audio/words/book3-241.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-242",
+            "char": "椒",
+            "index": 242,
+            "lesson": 31,
+            "picture": "assets/book3/242-picture.webp",
+            "quizPicture": "assets/book3/242-quiz.webp",
+            "characterImage": "assets/book3/242-character.webp",
+            "audio": "audio/words/book3-242.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-243",
+            "char": "填",
+            "index": 243,
+            "lesson": 31,
+            "picture": "assets/book3/243-picture.webp",
+            "quizPicture": "assets/book3/243-quiz.webp",
+            "characterImage": "assets/book3/243-character.webp",
+            "audio": "audio/words/book3-243.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-244",
+            "char": "晚",
+            "index": 244,
+            "lesson": 31,
+            "picture": "assets/book3/244-picture.webp",
+            "quizPicture": "assets/book3/244-quiz.webp",
+            "characterImage": "assets/book3/244-character.webp",
+            "audio": "audio/words/book3-244.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-245",
+            "char": "停",
+            "index": 245,
+            "lesson": 31,
+            "picture": "assets/book3/245-picture.webp",
+            "quizPicture": "assets/book3/245-quiz.webp",
+            "characterImage": "assets/book3/245-character.webp",
+            "audio": "audio/words/book3-245.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-246",
+            "char": "漂",
+            "index": 246,
+            "lesson": 31,
+            "picture": "assets/book3/246-picture.webp",
+            "quizPicture": "assets/book3/246-quiz.webp",
+            "characterImage": "assets/book3/246-character.webp",
+            "audio": "audio/words/book3-246.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-247",
+            "char": "流",
+            "index": 247,
+            "lesson": 31,
+            "picture": "assets/book3/247-picture.webp",
+            "quizPicture": "assets/book3/247-quiz.webp",
+            "characterImage": "assets/book3/247-character.webp",
+            "audio": "audio/words/book3-247.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-248",
+            "char": "哪",
+            "index": 248,
+            "lesson": 31,
+            "picture": "assets/book3/248-picture.webp",
+            "quizPicture": "assets/book3/248-quiz.webp",
+            "characterImage": "assets/book3/248-character.webp",
+            "audio": "audio/words/book3-248.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 32,
+        "items": [
+          {
+            "id": "book3-249",
+            "char": "棵",
+            "index": 249,
+            "lesson": 32,
+            "picture": "assets/book3/249-picture.webp",
+            "quizPicture": "assets/book3/249-quiz.webp",
+            "characterImage": "assets/book3/249-character.webp",
+            "audio": "audio/words/book3-249.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-250",
+            "char": "迎",
+            "index": 250,
+            "lesson": 32,
+            "picture": "assets/book3/250-picture.webp",
+            "quizPicture": "assets/book3/250-quiz.webp",
+            "characterImage": "assets/book3/250-character.webp",
+            "audio": "audio/words/book3-250.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-251",
+            "char": "接",
+            "index": 251,
+            "lesson": 32,
+            "picture": "assets/book3/251-picture.webp",
+            "quizPicture": "assets/book3/251-quiz.webp",
+            "characterImage": "assets/book3/251-character.webp",
+            "audio": "audio/words/book3-251.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-252",
+            "char": "粗",
+            "index": 252,
+            "lesson": 32,
+            "picture": "assets/book3/252-picture.webp",
+            "quizPicture": "assets/book3/252-quiz.webp",
+            "characterImage": "assets/book3/252-character.webp",
+            "audio": "audio/words/book3-252.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-253",
+            "char": "细",
+            "index": 253,
+            "lesson": 32,
+            "picture": "assets/book3/253-picture.webp",
+            "quizPicture": "assets/book3/253-quiz.webp",
+            "characterImage": "assets/book3/253-character.webp",
+            "audio": "audio/words/book3-253.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-254",
+            "char": "桃",
+            "index": 254,
+            "lesson": 32,
+            "picture": "assets/book3/254-picture.webp",
+            "quizPicture": "assets/book3/254-quiz.webp",
+            "characterImage": "assets/book3/254-character.webp",
+            "audio": "audio/words/book3-254.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-255",
+            "char": "核",
+            "index": 255,
+            "lesson": 32,
+            "picture": "assets/book3/255-picture.webp",
+            "quizPicture": "assets/book3/255-quiz.webp",
+            "characterImage": "assets/book3/255-character.webp",
+            "audio": "audio/words/book3-255.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-256",
+            "char": "泪",
+            "index": 256,
+            "lesson": 32,
+            "picture": "assets/book3/256-picture.webp",
+            "quizPicture": "assets/book3/256-quiz.webp",
+            "characterImage": "assets/book3/256-character.webp",
+            "audio": "audio/words/book3-256.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 33,
+        "items": [
+          {
+            "id": "book3-257",
+            "char": "种",
+            "index": 257,
+            "lesson": 33,
+            "picture": "assets/book3/257-picture.webp",
+            "quizPicture": "assets/book3/257-quiz.webp",
+            "characterImage": "assets/book3/257-character.webp",
+            "audio": "audio/words/book3-257.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-258",
+            "char": "结",
+            "index": 258,
+            "lesson": 33,
+            "picture": "assets/book3/258-picture.webp",
+            "quizPicture": "assets/book3/258-quiz.webp",
+            "characterImage": "assets/book3/258-character.webp",
+            "audio": "audio/words/book3-258.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-259",
+            "char": "束",
+            "index": 259,
+            "lesson": 33,
+            "picture": "assets/book3/259-picture.webp",
+            "quizPicture": "assets/book3/259-quiz.webp",
+            "characterImage": "assets/book3/259-character.webp",
+            "audio": "audio/words/book3-259.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-260",
+            "char": "摘",
+            "index": 260,
+            "lesson": 33,
+            "picture": "assets/book3/260-picture.webp",
+            "quizPicture": "assets/book3/260-quiz.webp",
+            "characterImage": "assets/book3/260-character.webp",
+            "audio": "audio/words/book3-260.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-261",
+            "char": "梨",
+            "index": 261,
+            "lesson": 33,
+            "picture": "assets/book3/261-picture.webp",
+            "quizPicture": "assets/book3/261-quiz.webp",
+            "characterImage": "assets/book3/261-character.webp",
+            "audio": "audio/words/book3-261.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-262",
+            "char": "错",
+            "index": 262,
+            "lesson": 33,
+            "picture": "assets/book3/262-picture.webp",
+            "quizPicture": "assets/book3/262-quiz.webp",
+            "characterImage": "assets/book3/262-character.webp",
+            "audio": "audio/words/book3-262.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-263",
+            "char": "会",
+            "index": 263,
+            "lesson": 33,
+            "picture": "assets/book3/263-picture.webp",
+            "quizPicture": "assets/book3/263-quiz.webp",
+            "characterImage": "assets/book3/263-character.webp",
+            "audio": "audio/words/book3-263.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-264",
+            "char": "拉",
+            "index": 264,
+            "lesson": 33,
+            "picture": "assets/book3/264-picture.webp",
+            "quizPicture": "assets/book3/264-quiz.webp",
+            "characterImage": "assets/book3/264-character.webp",
+            "audio": "audio/words/book3-264.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 34,
+        "items": [
+          {
+            "id": "book3-265",
+            "char": "差",
+            "index": 265,
+            "lesson": 34,
+            "picture": "assets/book3/265-picture.webp",
+            "quizPicture": "assets/book3/265-quiz.webp",
+            "characterImage": "assets/book3/265-character.webp",
+            "audio": "audio/words/book3-265.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-266",
+            "char": "话",
+            "index": 266,
+            "lesson": 34,
+            "picture": "assets/book3/266-picture.webp",
+            "quizPicture": "assets/book3/266-quiz.webp",
+            "characterImage": "assets/book3/266-character.webp",
+            "audio": "audio/words/book3-266.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-267",
+            "char": "力",
+            "index": 267,
+            "lesson": 34,
+            "picture": "assets/book3/267-picture.webp",
+            "quizPicture": "assets/book3/267-quiz.webp",
+            "characterImage": "assets/book3/267-character.webp",
+            "audio": "audio/words/book3-267.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-268",
+            "char": "抓",
+            "index": 268,
+            "lesson": 34,
+            "picture": "assets/book3/268-picture.webp",
+            "quizPicture": "assets/book3/268-quiz.webp",
+            "characterImage": "assets/book3/268-character.webp",
+            "audio": "audio/words/book3-268.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-269",
+            "char": "此",
+            "index": 269,
+            "lesson": 34,
+            "picture": "assets/book3/269-picture.webp",
+            "quizPicture": "assets/book3/269-quiz.webp",
+            "characterImage": "assets/book3/269-character.webp",
+            "audio": "audio/words/book3-269.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-270",
+            "char": "苦",
+            "index": 270,
+            "lesson": 34,
+            "picture": "assets/book3/270-picture.webp",
+            "quizPicture": "assets/book3/270-quiz.webp",
+            "characterImage": "assets/book3/270-character.webp",
+            "audio": "audio/words/book3-270.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-271",
+            "char": "新",
+            "index": 271,
+            "lesson": 34,
+            "picture": "assets/book3/271-picture.webp",
+            "quizPicture": "assets/book3/271-quiz.webp",
+            "characterImage": "assets/book3/271-character.webp",
+            "audio": "audio/words/book3-271.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-272",
+            "char": "闻",
+            "index": 272,
+            "lesson": 34,
+            "picture": "assets/book3/272-picture.webp",
+            "quizPicture": "assets/book3/272-quiz.webp",
+            "characterImage": "assets/book3/272-character.webp",
+            "audio": "audio/words/book3-272.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 35,
+        "items": [
+          {
+            "id": "book3-273",
+            "char": "行",
+            "index": 273,
+            "lesson": 35,
+            "picture": "assets/book3/273-picture.webp",
+            "quizPicture": "assets/book3/273-quiz.webp",
+            "characterImage": "assets/book3/273-character.webp",
+            "audio": "audio/words/book3-273.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-274",
+            "char": "粮",
+            "index": 274,
+            "lesson": 35,
+            "picture": "assets/book3/274-picture.webp",
+            "quizPicture": "assets/book3/274-quiz.webp",
+            "characterImage": "assets/book3/274-character.webp",
+            "audio": "audio/words/book3-274.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-275",
+            "char": "食",
+            "index": 275,
+            "lesson": 35,
+            "picture": "assets/book3/275-picture.webp",
+            "quizPicture": "assets/book3/275-quiz.webp",
+            "characterImage": "assets/book3/275-character.webp",
+            "audio": "audio/words/book3-275.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-276",
+            "char": "瓶",
+            "index": 276,
+            "lesson": 35,
+            "picture": "assets/book3/276-picture.webp",
+            "quizPicture": "assets/book3/276-quiz.webp",
+            "characterImage": "assets/book3/276-character.webp",
+            "audio": "audio/words/book3-276.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-277",
+            "char": "罐",
+            "index": 277,
+            "lesson": 35,
+            "picture": "assets/book3/277-picture.webp",
+            "quizPicture": "assets/book3/277-quiz.webp",
+            "characterImage": "assets/book3/277-character.webp",
+            "audio": "audio/words/book3-277.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-278",
+            "char": "血",
+            "index": 278,
+            "lesson": 35,
+            "picture": "assets/book3/278-picture.webp",
+            "quizPicture": "assets/book3/278-quiz.webp",
+            "characterImage": "assets/book3/278-character.webp",
+            "audio": "audio/words/book3-278.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-279",
+            "char": "管",
+            "index": 279,
+            "lesson": 35,
+            "picture": "assets/book3/279-picture.webp",
+            "quizPicture": "assets/book3/279-quiz.webp",
+            "characterImage": "assets/book3/279-character.webp",
+            "audio": "audio/words/book3-279.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-280",
+            "char": "丢",
+            "index": 280,
+            "lesson": 35,
+            "picture": "assets/book3/280-picture.webp",
+            "quizPicture": "assets/book3/280-quiz.webp",
+            "characterImage": "assets/book3/280-character.webp",
+            "audio": "audio/words/book3-280.mp3",
+            "audioReady": false
+          }
+        ]
+      },
+      {
+        "number": 36,
+        "items": [
+          {
+            "id": "book3-281",
+            "char": "失",
+            "index": 281,
+            "lesson": 36,
+            "picture": "assets/book3/281-picture.webp",
+            "quizPicture": "assets/book3/281-quiz.webp",
+            "characterImage": "assets/book3/281-character.webp",
+            "audio": "audio/words/book3-281.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-282",
+            "char": "假",
+            "index": 282,
+            "lesson": 36,
+            "picture": "assets/book3/282-picture.webp",
+            "quizPicture": "assets/book3/282-quiz.webp",
+            "characterImage": "assets/book3/282-character.webp",
+            "audio": "audio/words/book3-282.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-283",
+            "char": "期",
+            "index": 283,
+            "lesson": 36,
+            "picture": "assets/book3/283-picture.webp",
+            "quizPicture": "assets/book3/283-quiz.webp",
+            "characterImage": "assets/book3/283-character.webp",
+            "audio": "audio/words/book3-283.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-284",
+            "char": "脑",
+            "index": 284,
+            "lesson": 36,
+            "picture": "assets/book3/284-picture.webp",
+            "quizPicture": "assets/book3/284-quiz.webp",
+            "characterImage": "assets/book3/284-character.webp",
+            "audio": "audio/words/book3-284.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-285",
+            "char": "千",
+            "index": 285,
+            "lesson": 36,
+            "picture": "assets/book3/285-picture.webp",
+            "quizPicture": "assets/book3/285-quiz.webp",
+            "characterImage": "assets/book3/285-character.webp",
+            "audio": "audio/words/book3-285.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-286",
+            "char": "万",
+            "index": 286,
+            "lesson": 36,
+            "picture": "assets/book3/286-picture.webp",
+            "quizPicture": "assets/book3/286-quiz.webp",
+            "characterImage": "assets/book3/286-character.webp",
+            "audio": "audio/words/book3-286.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-287",
+            "char": "集",
+            "index": 287,
+            "lesson": 36,
+            "picture": "assets/book3/287-picture.webp",
+            "quizPicture": "assets/book3/287-quiz.webp",
+            "characterImage": "assets/book3/287-character.webp",
+            "audio": "audio/words/book3-287.mp3",
+            "audioReady": false
+          },
+          {
+            "id": "book3-288",
+            "char": "合",
+            "index": 288,
+            "lesson": 36,
+            "picture": "assets/book3/288-picture.webp",
+            "quizPicture": "assets/book3/288-quiz.webp",
+            "characterImage": "assets/book3/288-character.webp",
+            "audio": "audio/words/book3-288.mp3",
+            "audioReady": false
+          }
+        ]
+      }
+    ]
+  }
+]

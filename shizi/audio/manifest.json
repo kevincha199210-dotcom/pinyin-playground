@@ -1,0 +1,2643 @@
+{
+  "version": 1,
+  "voice": "AI 童声音频待制作",
+  "format": "mp3",
+  "items": [
+    {
+      "id": "book1-001",
+      "text": "人",
+      "file": "audio/words/book1-001.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-002",
+      "text": "头",
+      "file": "audio/words/book1-002.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-003",
+      "text": "目",
+      "file": "audio/words/book1-003.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-004",
+      "text": "眉",
+      "file": "audio/words/book1-004.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-005",
+      "text": "鼻",
+      "file": "audio/words/book1-005.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-006",
+      "text": "耳",
+      "file": "audio/words/book1-006.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-007",
+      "text": "口",
+      "file": "audio/words/book1-007.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-008",
+      "text": "牙",
+      "file": "audio/words/book1-008.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-009",
+      "text": "舌",
+      "file": "audio/words/book1-009.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-010",
+      "text": "心",
+      "file": "audio/words/book1-010.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-011",
+      "text": "手",
+      "file": "audio/words/book1-011.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-012",
+      "text": "足",
+      "file": "audio/words/book1-012.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-013",
+      "text": "身",
+      "file": "audio/words/book1-013.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-014",
+      "text": "一",
+      "file": "audio/words/book1-014.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-015",
+      "text": "二",
+      "file": "audio/words/book1-015.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-016",
+      "text": "三",
+      "file": "audio/words/book1-016.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-017",
+      "text": "四",
+      "file": "audio/words/book1-017.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-018",
+      "text": "五",
+      "file": "audio/words/book1-018.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-019",
+      "text": "六",
+      "file": "audio/words/book1-019.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-020",
+      "text": "七",
+      "file": "audio/words/book1-020.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-021",
+      "text": "八",
+      "file": "audio/words/book1-021.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-022",
+      "text": "九",
+      "file": "audio/words/book1-022.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-023",
+      "text": "十",
+      "file": "audio/words/book1-023.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-024",
+      "text": "马",
+      "file": "audio/words/book1-024.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-025",
+      "text": "牛",
+      "file": "audio/words/book1-025.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-026",
+      "text": "羊",
+      "file": "audio/words/book1-026.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-027",
+      "text": "鱼",
+      "file": "audio/words/book1-027.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-028",
+      "text": "虫",
+      "file": "audio/words/book1-028.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-029",
+      "text": "鸟",
+      "file": "audio/words/book1-029.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-030",
+      "text": "天",
+      "file": "audio/words/book1-030.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-031",
+      "text": "日",
+      "file": "audio/words/book1-031.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-032",
+      "text": "月",
+      "file": "audio/words/book1-032.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-033",
+      "text": "云",
+      "file": "audio/words/book1-033.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-034",
+      "text": "风",
+      "file": "audio/words/book1-034.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-035",
+      "text": "雨",
+      "file": "audio/words/book1-035.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-036",
+      "text": "雪",
+      "file": "audio/words/book1-036.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-037",
+      "text": "雷",
+      "file": "audio/words/book1-037.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-038",
+      "text": "电",
+      "file": "audio/words/book1-038.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-039",
+      "text": "田",
+      "file": "audio/words/book1-039.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-040",
+      "text": "木",
+      "file": "audio/words/book1-040.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-041",
+      "text": "米",
+      "file": "audio/words/book1-041.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-042",
+      "text": "果",
+      "file": "audio/words/book1-042.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-043",
+      "text": "瓜",
+      "file": "audio/words/book1-043.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-044",
+      "text": "禾",
+      "file": "audio/words/book1-044.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-045",
+      "text": "苗",
+      "file": "audio/words/book1-045.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-046",
+      "text": "森",
+      "file": "audio/words/book1-046.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-047",
+      "text": "林",
+      "file": "audio/words/book1-047.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-048",
+      "text": "石",
+      "file": "audio/words/book1-048.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-049",
+      "text": "亭",
+      "file": "audio/words/book1-049.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-050",
+      "text": "花",
+      "file": "audio/words/book1-050.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-051",
+      "text": "草",
+      "file": "audio/words/book1-051.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-052",
+      "text": "山",
+      "file": "audio/words/book1-052.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-053",
+      "text": "叶",
+      "file": "audio/words/book1-053.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-054",
+      "text": "竹",
+      "file": "audio/words/book1-054.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-055",
+      "text": "水",
+      "file": "audio/words/book1-055.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-056",
+      "text": "土",
+      "file": "audio/words/book1-056.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-057",
+      "text": "方",
+      "file": "audio/words/book1-057.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-058",
+      "text": "圆",
+      "file": "audio/words/book1-058.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-059",
+      "text": "尖",
+      "file": "audio/words/book1-059.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-060",
+      "text": "大",
+      "file": "audio/words/book1-060.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-061",
+      "text": "小",
+      "file": "audio/words/book1-061.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-062",
+      "text": "高",
+      "file": "audio/words/book1-062.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-063",
+      "text": "长",
+      "file": "audio/words/book1-063.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-064",
+      "text": "弓",
+      "file": "audio/words/book1-064.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-065",
+      "text": "刀",
+      "file": "audio/words/book1-065.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-066",
+      "text": "勺",
+      "file": "audio/words/book1-066.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-067",
+      "text": "面",
+      "file": "audio/words/book1-067.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-068",
+      "text": "豆",
+      "file": "audio/words/book1-068.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-069",
+      "text": "气",
+      "file": "audio/words/book1-069.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-070",
+      "text": "分",
+      "file": "audio/words/book1-070.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-071",
+      "text": "半",
+      "file": "audio/words/book1-071.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-072",
+      "text": "点",
+      "file": "audio/words/book1-072.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-073",
+      "text": "出",
+      "file": "audio/words/book1-073.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-074",
+      "text": "入",
+      "file": "audio/words/book1-074.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-075",
+      "text": "里",
+      "file": "audio/words/book1-075.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-076",
+      "text": "外",
+      "file": "audio/words/book1-076.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-077",
+      "text": "开",
+      "file": "audio/words/book1-077.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-078",
+      "text": "关",
+      "file": "audio/words/book1-078.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-079",
+      "text": "多",
+      "file": "audio/words/book1-079.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-080",
+      "text": "少",
+      "file": "audio/words/book1-080.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-081",
+      "text": "上",
+      "file": "audio/words/book1-081.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-082",
+      "text": "下",
+      "file": "audio/words/book1-082.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-083",
+      "text": "弯",
+      "file": "audio/words/book1-083.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-084",
+      "text": "直",
+      "file": "audio/words/book1-084.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-085",
+      "text": "来",
+      "file": "audio/words/book1-085.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-086",
+      "text": "去",
+      "file": "audio/words/book1-086.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-087",
+      "text": "吃",
+      "file": "audio/words/book1-087.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-088",
+      "text": "喝",
+      "file": "audio/words/book1-088.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-089",
+      "text": "吐",
+      "file": "audio/words/book1-089.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-090",
+      "text": "立",
+      "file": "audio/words/book1-090.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-091",
+      "text": "坐",
+      "file": "audio/words/book1-091.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-092",
+      "text": "走",
+      "file": "audio/words/book1-092.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-093",
+      "text": "飞",
+      "file": "audio/words/book1-093.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-094",
+      "text": "看",
+      "file": "audio/words/book1-094.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-095",
+      "text": "问",
+      "file": "audio/words/book1-095.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-096",
+      "text": "哭",
+      "file": "audio/words/book1-096.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-097",
+      "text": "笑",
+      "file": "audio/words/book1-097.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-098",
+      "text": "车",
+      "file": "audio/words/book1-098.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-099",
+      "text": "门",
+      "file": "audio/words/book1-099.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-100",
+      "text": "井",
+      "file": "audio/words/book1-100.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-101",
+      "text": "伞",
+      "file": "audio/words/book1-101.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-102",
+      "text": "包",
+      "file": "audio/words/book1-102.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-103",
+      "text": "布",
+      "file": "audio/words/book1-103.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-104",
+      "text": "皮",
+      "file": "audio/words/book1-104.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-105",
+      "text": "书",
+      "file": "audio/words/book1-105.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-106",
+      "text": "画",
+      "file": "audio/words/book1-106.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-107",
+      "text": "灯",
+      "file": "audio/words/book1-107.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-108",
+      "text": "光",
+      "file": "audio/words/book1-108.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-109",
+      "text": "衣",
+      "file": "audio/words/book1-109.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-110",
+      "text": "裙",
+      "file": "audio/words/book1-110.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-111",
+      "text": "袜",
+      "file": "audio/words/book1-111.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-112",
+      "text": "裤",
+      "file": "audio/words/book1-112.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-113",
+      "text": "鞋",
+      "file": "audio/words/book1-113.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-114",
+      "text": "帽",
+      "file": "audio/words/book1-114.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-115",
+      "text": "毛",
+      "file": "audio/words/book1-115.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-116",
+      "text": "巾",
+      "file": "audio/words/book1-116.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-117",
+      "text": "工",
+      "file": "audio/words/book1-117.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-118",
+      "text": "厂",
+      "file": "audio/words/book1-118.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-119",
+      "text": "灭",
+      "file": "audio/words/book1-119.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-120",
+      "text": "火",
+      "file": "audio/words/book1-120.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-121",
+      "text": "灰",
+      "file": "audio/words/book1-121.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-122",
+      "text": "尘",
+      "file": "audio/words/book1-122.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-123",
+      "text": "家",
+      "file": "audio/words/book1-123.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-124",
+      "text": "爷",
+      "file": "audio/words/book1-124.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-125",
+      "text": "奶",
+      "file": "audio/words/book1-125.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-126",
+      "text": "妈",
+      "file": "audio/words/book1-126.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-127",
+      "text": "爸",
+      "file": "audio/words/book1-127.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-128",
+      "text": "哥",
+      "file": "audio/words/book1-128.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-129",
+      "text": "弟",
+      "file": "audio/words/book1-129.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-130",
+      "text": "姐",
+      "file": "audio/words/book1-130.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-131",
+      "text": "妹",
+      "file": "audio/words/book1-131.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-132",
+      "text": "我",
+      "file": "audio/words/book1-132.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-133",
+      "text": "你",
+      "file": "audio/words/book1-133.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-134",
+      "text": "男",
+      "file": "audio/words/book1-134.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-135",
+      "text": "女",
+      "file": "audio/words/book1-135.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-136",
+      "text": "前",
+      "file": "audio/words/book1-136.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-137",
+      "text": "后",
+      "file": "audio/words/book1-137.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-138",
+      "text": "左",
+      "file": "audio/words/book1-138.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-139",
+      "text": "右",
+      "file": "audio/words/book1-139.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-140",
+      "text": "东",
+      "file": "audio/words/book1-140.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-141",
+      "text": "西",
+      "file": "audio/words/book1-141.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-142",
+      "text": "南",
+      "file": "audio/words/book1-142.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-143",
+      "text": "北",
+      "file": "audio/words/book1-143.mp3",
+      "ready": false
+    },
+    {
+      "id": "book1-144",
+      "text": "中",
+      "file": "audio/words/book1-144.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-001",
+      "text": "白",
+      "file": "audio/words/book3-001.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-002",
+      "text": "枝",
+      "file": "audio/words/book3-002.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-003",
+      "text": "了",
+      "file": "audio/words/book3-003.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-004",
+      "text": "样",
+      "file": "audio/words/book3-004.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-005",
+      "text": "院",
+      "file": "audio/words/book3-005.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-006",
+      "text": "久",
+      "file": "audio/words/book3-006.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-007",
+      "text": "没",
+      "file": "audio/words/book3-007.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-008",
+      "text": "班",
+      "file": "audio/words/book3-008.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-009",
+      "text": "级",
+      "file": "audio/words/book3-009.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-010",
+      "text": "借",
+      "file": "audio/words/book3-010.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-011",
+      "text": "知",
+      "file": "audio/words/book3-011.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-012",
+      "text": "识",
+      "file": "audio/words/book3-012.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-013",
+      "text": "算",
+      "file": "audio/words/book3-013.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-014",
+      "text": "魔",
+      "file": "audio/words/book3-014.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-015",
+      "text": "术",
+      "file": "audio/words/book3-015.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-016",
+      "text": "讲",
+      "file": "audio/words/book3-016.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-017",
+      "text": "完",
+      "file": "audio/words/book3-017.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-018",
+      "text": "成",
+      "file": "audio/words/book3-018.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-019",
+      "text": "拿",
+      "file": "audio/words/book3-019.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-020",
+      "text": "着",
+      "file": "audio/words/book3-020.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-021",
+      "text": "老",
+      "file": "audio/words/book3-021.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-022",
+      "text": "师",
+      "file": "audio/words/book3-022.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-023",
+      "text": "事",
+      "file": "audio/words/book3-023.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-024",
+      "text": "故",
+      "file": "audio/words/book3-024.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-025",
+      "text": "听",
+      "file": "audio/words/book3-025.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-026",
+      "text": "懂",
+      "file": "audio/words/book3-026.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-027",
+      "text": "趣",
+      "file": "audio/words/book3-027.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-028",
+      "text": "得",
+      "file": "audio/words/book3-028.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-029",
+      "text": "觉",
+      "file": "audio/words/book3-029.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-030",
+      "text": "起",
+      "file": "audio/words/book3-030.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-031",
+      "text": "始",
+      "file": "audio/words/book3-031.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-032",
+      "text": "专",
+      "file": "audio/words/book3-032.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-033",
+      "text": "朋",
+      "file": "audio/words/book3-033.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-034",
+      "text": "友",
+      "file": "audio/words/book3-034.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-035",
+      "text": "象",
+      "file": "audio/words/book3-035.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-036",
+      "text": "踢",
+      "file": "audio/words/book3-036.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-037",
+      "text": "庭",
+      "file": "audio/words/book3-037.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-038",
+      "text": "亲",
+      "file": "audio/words/book3-038.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-039",
+      "text": "能",
+      "file": "audio/words/book3-039.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-040",
+      "text": "够",
+      "file": "audio/words/book3-040.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-041",
+      "text": "游",
+      "file": "audio/words/book3-041.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-042",
+      "text": "泳",
+      "file": "audio/words/book3-042.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-043",
+      "text": "盼",
+      "file": "audio/words/book3-043.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-044",
+      "text": "望",
+      "file": "audio/words/book3-044.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-045",
+      "text": "跑",
+      "file": "audio/words/book3-045.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-046",
+      "text": "步",
+      "file": "audio/words/book3-046.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-047",
+      "text": "蹦",
+      "file": "audio/words/book3-047.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-048",
+      "text": "跳",
+      "file": "audio/words/book3-048.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-049",
+      "text": "唱",
+      "file": "audio/words/book3-049.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-050",
+      "text": "歌",
+      "file": "audio/words/book3-050.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-051",
+      "text": "活",
+      "file": "audio/words/book3-051.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-052",
+      "text": "泼",
+      "file": "audio/words/book3-052.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-053",
+      "text": "快",
+      "file": "audio/words/book3-053.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-054",
+      "text": "乐",
+      "file": "audio/words/book3-054.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-055",
+      "text": "那",
+      "file": "audio/words/book3-055.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-056",
+      "text": "些",
+      "file": "audio/words/book3-056.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-057",
+      "text": "像",
+      "file": "audio/words/book3-057.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-058",
+      "text": "什",
+      "file": "audio/words/book3-058.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-059",
+      "text": "么",
+      "file": "audio/words/book3-059.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-060",
+      "text": "怎",
+      "file": "audio/words/book3-060.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-061",
+      "text": "病",
+      "file": "audio/words/book3-061.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-062",
+      "text": "都",
+      "file": "audio/words/book3-062.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-063",
+      "text": "想",
+      "file": "audio/words/book3-063.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-064",
+      "text": "学",
+      "file": "audio/words/book3-064.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-065",
+      "text": "校",
+      "file": "audio/words/book3-065.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-066",
+      "text": "排",
+      "file": "audio/words/book3-066.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-067",
+      "text": "队",
+      "file": "audio/words/book3-067.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-068",
+      "text": "穿",
+      "file": "audio/words/book3-068.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-069",
+      "text": "旗",
+      "file": "audio/words/book3-069.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-070",
+      "text": "升",
+      "file": "audio/words/book3-070.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-071",
+      "text": "城",
+      "file": "audio/words/book3-071.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-072",
+      "text": "广",
+      "file": "audio/words/book3-072.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-073",
+      "text": "播",
+      "file": "audio/words/book3-073.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-074",
+      "text": "星",
+      "file": "audio/words/book3-074.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-075",
+      "text": "送",
+      "file": "audio/words/book3-075.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-076",
+      "text": "礼",
+      "file": "audio/words/book3-076.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-077",
+      "text": "敬",
+      "file": "audio/words/book3-077.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-078",
+      "text": "最",
+      "file": "audio/words/book3-078.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-079",
+      "text": "响",
+      "file": "audio/words/book3-079.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-080",
+      "text": "声",
+      "file": "audio/words/book3-080.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-081",
+      "text": "祖",
+      "file": "audio/words/book3-081.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-082",
+      "text": "说",
+      "file": "audio/words/book3-082.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-083",
+      "text": "到",
+      "file": "audio/words/book3-083.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-084",
+      "text": "瞧",
+      "file": "audio/words/book3-084.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-085",
+      "text": "也",
+      "file": "audio/words/book3-085.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-086",
+      "text": "菜",
+      "file": "audio/words/book3-086.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-087",
+      "text": "额",
+      "file": "audio/words/book3-087.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-088",
+      "text": "卷",
+      "file": "audio/words/book3-088.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-089",
+      "text": "紧",
+      "file": "audio/words/book3-089.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-090",
+      "text": "唇",
+      "file": "audio/words/book3-090.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-091",
+      "text": "饱",
+      "file": "audio/words/book3-091.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-092",
+      "text": "同",
+      "file": "audio/words/book3-092.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-093",
+      "text": "岁",
+      "file": "audio/words/book3-093.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-094",
+      "text": "拖",
+      "file": "audio/words/book3-094.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-095",
+      "text": "饿",
+      "file": "audio/words/book3-095.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-096",
+      "text": "擦",
+      "file": "audio/words/book3-096.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-097",
+      "text": "汗",
+      "file": "audio/words/book3-097.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-098",
+      "text": "帮",
+      "file": "audio/words/book3-098.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-099",
+      "text": "助",
+      "file": "audio/words/book3-099.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-100",
+      "text": "千",
+      "file": "audio/words/book3-100.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-101",
+      "text": "净",
+      "file": "audio/words/book3-101.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-102",
+      "text": "明",
+      "file": "audio/words/book3-102.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-103",
+      "text": "聪",
+      "file": "audio/words/book3-103.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-104",
+      "text": "夸",
+      "file": "audio/words/book3-104.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-105",
+      "text": "奖",
+      "file": "audio/words/book3-105.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-106",
+      "text": "自",
+      "file": "audio/words/book3-106.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-107",
+      "text": "己",
+      "file": "audio/words/book3-107.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-108",
+      "text": "年",
+      "file": "audio/words/book3-108.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-109",
+      "text": "龄",
+      "file": "audio/words/book3-109.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-110",
+      "text": "卡",
+      "file": "audio/words/book3-110.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-111",
+      "text": "贺",
+      "file": "audio/words/book3-111.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-112",
+      "text": "彩",
+      "file": "audio/words/book3-112.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-113",
+      "text": "虹",
+      "file": "audio/words/book3-113.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-114",
+      "text": "慢",
+      "file": "audio/words/book3-114.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-115",
+      "text": "岭",
+      "file": "audio/words/book3-115.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-116",
+      "text": "荷",
+      "file": "audio/words/book3-116.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-117",
+      "text": "变",
+      "file": "audio/words/book3-117.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-118",
+      "text": "化",
+      "file": "audio/words/book3-118.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-119",
+      "text": "蝴",
+      "file": "audio/words/book3-119.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-120",
+      "text": "蝶",
+      "file": "audio/words/book3-120.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-121",
+      "text": "舞",
+      "file": "audio/words/book3-121.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-122",
+      "text": "蹈",
+      "file": "audio/words/book3-122.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-123",
+      "text": "梦",
+      "file": "audio/words/book3-123.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-124",
+      "text": "乡",
+      "file": "audio/words/book3-124.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-125",
+      "text": "吞",
+      "file": "audio/words/book3-125.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-126",
+      "text": "湖",
+      "file": "audio/words/book3-126.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-127",
+      "text": "颜",
+      "file": "audio/words/book3-127.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-128",
+      "text": "再",
+      "file": "audio/words/book3-128.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-129",
+      "text": "洗",
+      "file": "audio/words/book3-129.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-130",
+      "text": "谁",
+      "file": "audio/words/book3-130.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-131",
+      "text": "呢",
+      "file": "audio/words/book3-131.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-132",
+      "text": "比",
+      "file": "audio/words/book3-132.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-133",
+      "text": "赛",
+      "file": "audio/words/book3-133.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-134",
+      "text": "对",
+      "file": "audio/words/book3-134.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-135",
+      "text": "币",
+      "file": "audio/words/book3-135.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-136",
+      "text": "节",
+      "file": "audio/words/book3-136.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-137",
+      "text": "季",
+      "file": "audio/words/book3-137.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-138",
+      "text": "春",
+      "file": "audio/words/book3-138.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-139",
+      "text": "夏",
+      "file": "audio/words/book3-139.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-140",
+      "text": "秋",
+      "file": "audio/words/book3-140.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-141",
+      "text": "枯",
+      "file": "audio/words/book3-141.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-142",
+      "text": "笔",
+      "file": "audio/words/book3-142.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-143",
+      "text": "烈",
+      "file": "audio/words/book3-143.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-144",
+      "text": "遮",
+      "file": "audio/words/book3-144.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-145",
+      "text": "挡",
+      "file": "audio/words/book3-145.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-146",
+      "text": "撑",
+      "file": "audio/words/book3-146.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-147",
+      "text": "落",
+      "file": "audio/words/book3-147.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-148",
+      "text": "降",
+      "file": "audio/words/book3-148.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-149",
+      "text": "秋",
+      "file": "audio/words/book3-149.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-150",
+      "text": "密",
+      "file": "audio/words/book3-150.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-151",
+      "text": "取",
+      "file": "audio/words/book3-151.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-152",
+      "text": "暖",
+      "file": "audio/words/book3-152.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-153",
+      "text": "泥",
+      "file": "audio/words/book3-153.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-154",
+      "text": "堆",
+      "file": "audio/words/book3-154.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-155",
+      "text": "从",
+      "file": "audio/words/book3-155.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-156",
+      "text": "滚",
+      "file": "audio/words/book3-156.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-157",
+      "text": "玻",
+      "file": "audio/words/book3-157.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-158",
+      "text": "璃",
+      "file": "audio/words/book3-158.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-159",
+      "text": "常",
+      "file": "audio/words/book3-159.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-160",
+      "text": "非",
+      "file": "audio/words/book3-160.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-161",
+      "text": "鸭",
+      "file": "audio/words/book3-161.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-162",
+      "text": "等",
+      "file": "audio/words/book3-162.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-163",
+      "text": "于",
+      "file": "audio/words/book3-163.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-164",
+      "text": "带",
+      "file": "audio/words/book3-164.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-165",
+      "text": "厅",
+      "file": "audio/words/book3-165.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-166",
+      "text": "江",
+      "file": "audio/words/book3-166.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-167",
+      "text": "终",
+      "file": "audio/words/book3-167.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-168",
+      "text": "猫",
+      "file": "audio/words/book3-168.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-169",
+      "text": "瓜",
+      "file": "audio/words/book3-169.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-170",
+      "text": "买",
+      "file": "audio/words/book3-170.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-171",
+      "text": "尺",
+      "file": "audio/words/book3-171.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-172",
+      "text": "捉",
+      "file": "audio/words/book3-172.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-173",
+      "text": "虾",
+      "file": "audio/words/book3-173.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-174",
+      "text": "猴",
+      "file": "audio/words/book3-174.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-175",
+      "text": "戏",
+      "file": "audio/words/book3-175.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-176",
+      "text": "作",
+      "file": "audio/words/book3-176.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-177",
+      "text": "业",
+      "file": "audio/words/book3-177.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-178",
+      "text": "渴",
+      "file": "audio/words/book3-178.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-179",
+      "text": "检",
+      "file": "audio/words/book3-179.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-180",
+      "text": "纸",
+      "file": "audio/words/book3-180.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-181",
+      "text": "童",
+      "file": "audio/words/book3-181.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-182",
+      "text": "呼",
+      "file": "audio/words/book3-182.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-183",
+      "text": "吱",
+      "file": "audio/words/book3-183.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-184",
+      "text": "瓦",
+      "file": "audio/words/book3-184.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-185",
+      "text": "装",
+      "file": "audio/words/book3-185.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-186",
+      "text": "船",
+      "file": "audio/words/book3-186.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-187",
+      "text": "划",
+      "file": "audio/words/book3-187.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-188",
+      "text": "放",
+      "file": "audio/words/book3-188.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-189",
+      "text": "轻",
+      "file": "audio/words/book3-189.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-190",
+      "text": "松",
+      "file": "audio/words/book3-190.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-191",
+      "text": "挂",
+      "file": "audio/words/book3-191.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-192",
+      "text": "钩",
+      "file": "audio/words/book3-192.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-193",
+      "text": "晴",
+      "file": "audio/words/book3-193.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-194",
+      "text": "朗",
+      "file": "audio/words/book3-194.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-195",
+      "text": "间",
+      "file": "audio/words/book3-195.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-196",
+      "text": "时",
+      "file": "audio/words/book3-196.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-197",
+      "text": "候",
+      "file": "audio/words/book3-197.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-198",
+      "text": "岸",
+      "file": "audio/words/book3-198.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-199",
+      "text": "可",
+      "file": "audio/words/book3-199.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-200",
+      "text": "以",
+      "file": "audio/words/book3-200.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-201",
+      "text": "感",
+      "file": "audio/words/book3-201.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-202",
+      "text": "谢",
+      "file": "audio/words/book3-202.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-203",
+      "text": "喜",
+      "file": "audio/words/book3-203.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-204",
+      "text": "欢",
+      "file": "audio/words/book3-204.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-205",
+      "text": "两",
+      "file": "audio/words/book3-205.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-206",
+      "text": "群",
+      "file": "audio/words/book3-206.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-207",
+      "text": "尾",
+      "file": "audio/words/book3-207.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-208",
+      "text": "兔",
+      "file": "audio/words/book3-208.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-209",
+      "text": "养",
+      "file": "audio/words/book3-209.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-210",
+      "text": "怕",
+      "file": "audio/words/book3-210.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-211",
+      "text": "狗",
+      "file": "audio/words/book3-211.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-212",
+      "text": "猎",
+      "file": "audio/words/book3-212.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-213",
+      "text": "咬",
+      "file": "audio/words/book3-213.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-214",
+      "text": "梦",
+      "file": "audio/words/book3-214.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-215",
+      "text": "卜",
+      "file": "audio/words/book3-215.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-216",
+      "text": "喂",
+      "file": "audio/words/book3-216.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-217",
+      "text": "猪",
+      "file": "audio/words/book3-217.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-218",
+      "text": "凉",
+      "file": "audio/words/book3-218.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-219",
+      "text": "慌",
+      "file": "audio/words/book3-219.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-220",
+      "text": "每",
+      "file": "audio/words/book3-220.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-221",
+      "text": "次",
+      "file": "audio/words/book3-221.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-222",
+      "text": "屋",
+      "file": "audio/words/book3-222.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-223",
+      "text": "为",
+      "file": "audio/words/book3-223.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-224",
+      "text": "因",
+      "file": "audio/words/book3-224.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-225",
+      "text": "公",
+      "file": "audio/words/book3-225.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-226",
+      "text": "主",
+      "file": "audio/words/book3-226.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-227",
+      "text": "其",
+      "file": "audio/words/book3-227.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-228",
+      "text": "它",
+      "file": "audio/words/book3-228.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-229",
+      "text": "运",
+      "file": "audio/words/book3-229.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-230",
+      "text": "动",
+      "file": "audio/words/book3-230.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-231",
+      "text": "激",
+      "file": "audio/words/book3-231.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-232",
+      "text": "选",
+      "file": "audio/words/book3-232.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-233",
+      "text": "择",
+      "file": "audio/words/book3-233.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-234",
+      "text": "微",
+      "file": "audio/words/book3-234.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-235",
+      "text": "如",
+      "file": "audio/words/book3-235.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-236",
+      "text": "熊",
+      "file": "audio/words/book3-236.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-237",
+      "text": "加",
+      "file": "audio/words/book3-237.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-238",
+      "text": "参",
+      "file": "audio/words/book3-238.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-239",
+      "text": "刺",
+      "file": "audio/words/book3-239.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-240",
+      "text": "猬",
+      "file": "audio/words/book3-240.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-241",
+      "text": "辣",
+      "file": "audio/words/book3-241.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-242",
+      "text": "椒",
+      "file": "audio/words/book3-242.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-243",
+      "text": "填",
+      "file": "audio/words/book3-243.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-244",
+      "text": "晚",
+      "file": "audio/words/book3-244.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-245",
+      "text": "停",
+      "file": "audio/words/book3-245.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-246",
+      "text": "漂",
+      "file": "audio/words/book3-246.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-247",
+      "text": "流",
+      "file": "audio/words/book3-247.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-248",
+      "text": "哪",
+      "file": "audio/words/book3-248.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-249",
+      "text": "棵",
+      "file": "audio/words/book3-249.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-250",
+      "text": "迎",
+      "file": "audio/words/book3-250.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-251",
+      "text": "接",
+      "file": "audio/words/book3-251.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-252",
+      "text": "粗",
+      "file": "audio/words/book3-252.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-253",
+      "text": "细",
+      "file": "audio/words/book3-253.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-254",
+      "text": "桃",
+      "file": "audio/words/book3-254.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-255",
+      "text": "核",
+      "file": "audio/words/book3-255.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-256",
+      "text": "泪",
+      "file": "audio/words/book3-256.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-257",
+      "text": "种",
+      "file": "audio/words/book3-257.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-258",
+      "text": "结",
+      "file": "audio/words/book3-258.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-259",
+      "text": "束",
+      "file": "audio/words/book3-259.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-260",
+      "text": "摘",
+      "file": "audio/words/book3-260.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-261",
+      "text": "梨",
+      "file": "audio/words/book3-261.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-262",
+      "text": "错",
+      "file": "audio/words/book3-262.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-263",
+      "text": "会",
+      "file": "audio/words/book3-263.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-264",
+      "text": "拉",
+      "file": "audio/words/book3-264.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-265",
+      "text": "差",
+      "file": "audio/words/book3-265.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-266",
+      "text": "话",
+      "file": "audio/words/book3-266.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-267",
+      "text": "力",
+      "file": "audio/words/book3-267.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-268",
+      "text": "抓",
+      "file": "audio/words/book3-268.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-269",
+      "text": "此",
+      "file": "audio/words/book3-269.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-270",
+      "text": "苦",
+      "file": "audio/words/book3-270.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-271",
+      "text": "新",
+      "file": "audio/words/book3-271.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-272",
+      "text": "闻",
+      "file": "audio/words/book3-272.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-273",
+      "text": "行",
+      "file": "audio/words/book3-273.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-274",
+      "text": "粮",
+      "file": "audio/words/book3-274.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-275",
+      "text": "食",
+      "file": "audio/words/book3-275.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-276",
+      "text": "瓶",
+      "file": "audio/words/book3-276.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-277",
+      "text": "罐",
+      "file": "audio/words/book3-277.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-278",
+      "text": "血",
+      "file": "audio/words/book3-278.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-279",
+      "text": "管",
+      "file": "audio/words/book3-279.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-280",
+      "text": "丢",
+      "file": "audio/words/book3-280.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-281",
+      "text": "失",
+      "file": "audio/words/book3-281.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-282",
+      "text": "假",
+      "file": "audio/words/book3-282.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-283",
+      "text": "期",
+      "file": "audio/words/book3-283.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-284",
+      "text": "脑",
+      "file": "audio/words/book3-284.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-285",
+      "text": "千",
+      "file": "audio/words/book3-285.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-286",
+      "text": "万",
+      "file": "audio/words/book3-286.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-287",
+      "text": "集",
+      "file": "audio/words/book3-287.mp3",
+      "ready": false
+    },
+    {
+      "id": "book3-288",
+      "text": "合",
+      "file": "audio/words/book3-288.mp3",
+      "ready": false
+    }
+  ],
+  "prompts": [
+    {
+      "id": "welcome",
+      "text": "欢迎来到识字乐园",
+      "file": "audio/prompts/welcome.mp3",
+      "ready": false
+    },
+    {
+      "id": "look",
+      "text": "看一看，这是什么字",
+      "file": "audio/prompts/look.mp3",
+      "ready": false
+    },
+    {
+      "id": "listenChoose",
+      "text": "听一听，选出你听到的字",
+      "file": "audio/prompts/listenChoose.mp3",
+      "ready": false
+    },
+    {
+      "id": "pictureChoose",
+      "text": "看图片，选出对应的字",
+      "file": "audio/prompts/pictureChoose.mp3",
+      "ready": false
+    },
+    {
+      "id": "correct",
+      "text": "答对啦，真棒",
+      "file": "audio/prompts/correct.mp3",
+      "ready": false
+    },
+    {
+      "id": "retry",
+      "text": "再试一次",
+      "file": "audio/prompts/retry.mp3",
+      "ready": false
+    },
+    {
+      "id": "complete",
+      "text": "这一关完成啦",
+      "file": "audio/prompts/complete.mp3",
+      "ready": false
+    }
+  ]
+}
